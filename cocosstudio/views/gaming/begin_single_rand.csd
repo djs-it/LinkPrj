@@ -337,16 +337,18 @@
                       <AbstractNodeData Name="Sprite_82" ActionTag="850688890" Tag="190" IconVisible="False" LeftMargin="-123.2654" RightMargin="116.2654" TopMargin="27.8698" BottomMargin="66.1302" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
-                          <AbstractNodeData Name="Sprite_81" ActionTag="-194719702" Tag="191" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="61.5002" RightMargin="61.4998" TopMargin="-70.9490" BottomMargin="66.9490" ctype="SpriteObjectData">
-                            <Size X="84.0000" Y="110.0000" />
+                          <AbstractNodeData Name="stageleftcsd" ActionTag="557310018" Tag="150" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                            <Size X="0.0000" Y="0.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                            <Position X="103.5002" Y="121.9490" />
-                            <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                            <Position X="100.0000" Y="100.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.5000" Y="1.1505" />
-                            <PreSize X="0.4058" Y="1.0377" />
-                            <FileData Type="PlistSubImage" Path="animal-2.png" Plist="Resource/atlas/B-common.plist" />
-                            <BlendFunc Src="1" Dst="771" />
+                            <PrePosition X="0.4831" Y="0.9434" />
+                            <PreSize X="0.0000" Y="0.0000" />
+                            <SingleColor A="255" R="150" G="200" B="255" />
+                            <FirstColor A="255" R="150" G="200" B="255" />
+                            <EndColor A="255" R="255" G="255" B="255" />
+                            <ColorVector ScaleY="1.0000" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -361,16 +363,18 @@
                       <AbstractNodeData Name="Sprite_82_0" ActionTag="415362954" Tag="192" IconVisible="False" LeftMargin="129.3126" RightMargin="-136.3126" TopMargin="27.0886" BottomMargin="66.9114" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
-                          <AbstractNodeData Name="Sprite_81" ActionTag="2106397811" Tag="193" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="58.5000" RightMargin="58.5000" TopMargin="-80.2981" BottomMargin="68.2981" ctype="SpriteObjectData">
-                            <Size X="90.0000" Y="118.0000" />
+                          <AbstractNodeData Name="stagerightcsd" ActionTag="-1541474395" Tag="151" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                            <Size X="0.0000" Y="0.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                            <Position X="103.5000" Y="127.2981" />
-                            <Scale ScaleX="1.2000" ScaleY="1.2000" />
+                            <Position X="100.0000" Y="100.0000" />
+                            <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.5000" Y="1.2009" />
-                            <PreSize X="0.4348" Y="1.1132" />
-                            <FileData Type="PlistSubImage" Path="animal-1.png" Plist="Resource/atlas/B-common.plist" />
-                            <BlendFunc Src="1" Dst="771" />
+                            <PrePosition X="0.4831" Y="0.9434" />
+                            <PreSize X="0.0000" Y="0.0000" />
+                            <SingleColor A="255" R="150" G="200" B="255" />
+                            <FirstColor A="255" R="150" G="200" B="255" />
+                            <EndColor A="255" R="255" G="255" B="255" />
+                            <ColorVector ScaleY="1.0000" />
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
