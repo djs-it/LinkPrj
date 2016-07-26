@@ -28,14 +28,5 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="views/gaming/begin_single_level.csd" />
-          <FilePathData Path="views/gaming/begin_single_rand.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="views/gaming/begin_single_rand.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>

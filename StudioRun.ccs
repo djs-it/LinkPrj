@@ -145,7 +145,7 @@
               <PlistImageFile Name="single-star-2.png" Key="single-star-2.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="Link.png" PListFile="Link.plist" Name=".Link_PList.Dir">
-              <PlistImageFile Name="10.png" Key="10.png" />
+              <PlistImageFile Name="anm-0.png" Key="anm-0.png" />
               <PlistImageFile Name="anm-1.png" Key="anm-1.png" />
               <PlistImageFile Name="anm-10.png" Key="anm-10.png" />
               <PlistImageFile Name="anm-11.png" Key="anm-11.png" />
@@ -243,7 +243,7 @@
               <PlistImageFile Name="sp-8.png" Key="sp-8.png" />
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
-              <PlistImageFile Name="anm-0.png" Key="anm-0.png" />
+              <PlistImageFile Name="wall.png" Key="wall.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>
@@ -288,6 +288,7 @@
             <Project Name="gaming_level_over.csd" Type="Node" />
             <Project Name="gaming_pause.csd" Type="Node" />
             <Project Name="gaming_top.csd" Type="Node" />
+            <Project Name="gaming_wall.csd" Type="Node" />
           </Folder>
           <Folder Name="mainroom">
             <Project Name="main_bm_btn.csd" Type="Node" />
