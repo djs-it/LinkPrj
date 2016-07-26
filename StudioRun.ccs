@@ -243,6 +243,7 @@
               <PlistImageFile Name="sp-8.png" Key="sp-8.png" />
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
+              <PlistImageFile Name="anm-0.png" Key="anm-0.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>
