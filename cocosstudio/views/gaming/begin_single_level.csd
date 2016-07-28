@@ -79,7 +79,7 @@
                       <AbstractNodeData Name="Image_7" ActionTag="2114755249" Tag="574" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="407.5000" RightMargin="407.5000" TopMargin="137.0000" BottomMargin="77.0000" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
                         <Size X="145.0000" Y="86.0000" />
                         <Children>
-                          <AbstractNodeData Name="Text_10" ActionTag="-289444888" Tag="576" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.5000" RightMargin="24.5000" TopMargin="21.5000" BottomMargin="21.5000" FontSize="36" LabelText="02:00" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                          <AbstractNodeData Name="star2csd" ActionTag="-289444888" Tag="576" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.5000" RightMargin="24.5000" TopMargin="21.5000" BottomMargin="21.5000" FontSize="36" LabelText="02:00" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                             <Size X="96.0000" Y="43.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <Position X="72.5000" Y="43.0000" />
@@ -114,7 +114,7 @@
                       <AbstractNodeData Name="Image_7_0" ActionTag="1917601559" Tag="622" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="586.4440" RightMargin="228.5560" TopMargin="138.0145" BottomMargin="75.9855" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
                         <Size X="145.0000" Y="86.0000" />
                         <Children>
-                          <AbstractNodeData Name="Text_10" ActionTag="684643609" Tag="623" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.5000" RightMargin="24.5000" TopMargin="21.5000" BottomMargin="21.5000" FontSize="36" LabelText="02:00" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                          <AbstractNodeData Name="star3csd" ActionTag="684643609" Tag="623" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.5000" RightMargin="24.5000" TopMargin="21.5000" BottomMargin="21.5000" FontSize="36" LabelText="02:00" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                             <Size X="96.0000" Y="43.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <Position X="72.5000" Y="43.0000" />
@@ -149,14 +149,14 @@
                       <AbstractNodeData Name="Image_7_1" ActionTag="1311975291" Tag="625" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="230.6680" RightMargin="584.3320" TopMargin="138.0135" BottomMargin="75.9865" Scale9Enable="True" LeftEage="30" RightEage="30" TopEage="30" BottomEage="30" Scale9OriginX="30" Scale9OriginY="30" Scale9Width="21" Scale9Height="21" ctype="ImageViewObjectData">
                         <Size X="145.0000" Y="86.0000" />
                         <Children>
-                          <AbstractNodeData Name="Text_10" ActionTag="1729213145" Tag="626" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="24.5000" RightMargin="24.5000" TopMargin="21.5000" BottomMargin="21.5000" FontSize="36" LabelText="02:00" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                            <Size X="96.0000" Y="43.0000" />
+                          <AbstractNodeData Name="star1csd" ActionTag="1729213145" Tag="626" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="22.5000" RightMargin="22.5000" TopMargin="21.5000" BottomMargin="21.5000" FontSize="36" LabelText="--:--" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                            <Size X="100.0000" Y="43.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <Position X="72.5000" Y="43.0000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="103" G="65" B="78" />
                             <PrePosition X="0.5000" Y="0.5000" />
-                            <PreSize X="0.6621" Y="0.5000" />
+                            <PreSize X="0.6897" Y="0.5000" />
                             <FontResource Type="Normal" Path="Resource/font/FZY4K.ttf" Plist="" />
                             <OutlineColor A="255" R="255" G="0" B="0" />
                             <ShadowColor A="255" R="110" G="110" B="110" />
@@ -470,7 +470,7 @@
                       <AbstractNodeData Name="Sprite_82" ActionTag="-1272062993" Tag="605" IconVisible="False" LeftMargin="-123.2655" RightMargin="116.2655" TopMargin="38.5675" BottomMargin="55.4325" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
-                          <AbstractNodeData Name="stageleftcsd" ActionTag="-1161886822" Tag="114" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                          <AbstractNodeData Name="stageleftcsd" ActionTag="-1161886822" Tag="114" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <Position X="100.0000" Y="100.0000" />
@@ -496,7 +496,7 @@
                       <AbstractNodeData Name="Sprite_82_0" ActionTag="-163104145" Tag="606" IconVisible="False" LeftMargin="129.3127" RightMargin="-136.3127" TopMargin="37.7866" BottomMargin="56.2134" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
-                          <AbstractNodeData Name="stagerightcsd" ActionTag="-658338829" Tag="115" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                          <AbstractNodeData Name="stagerightcsd" ActionTag="-658338829" Tag="115" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                             <Position X="100.0000" Y="100.0000" />

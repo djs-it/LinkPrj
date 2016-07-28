@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="636" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Panel_9" ActionTag="413025833" Tag="748" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-540.0000" RightMargin="-540.0000" TopMargin="-200.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_9" ActionTag="413025833" Tag="748" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-540.0000" RightMargin="-540.0000" TopMargin="-200.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="1080.0000" Y="200.0000" />
             <Children>
               <AbstractNodeData Name="Sprite_13" ActionTag="-2103246444" Tag="749" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="572.4000" RightMargin="103.6000" TopMargin="72.0000" ctype="SpriteObjectData">
@@ -70,7 +70,7 @@
               <AbstractNodeData Name="Sprite_14" ActionTag="-872520209" Tag="750" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="92.6000" RightMargin="572.4000" TopMargin="80.0000" ctype="SpriteObjectData">
                 <Size X="415.0000" Y="120.0000" />
                 <Children>
-                  <AbstractNodeData Name="stageleftcsd" ActionTag="1114297002" Tag="161" IconVisible="False" LeftMargin="123.0000" RightMargin="292.0000" TopMargin="46.0000" BottomMargin="74.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                  <AbstractNodeData Name="stageleftcsd" ActionTag="1114297002" Tag="161" IconVisible="False" LeftMargin="123.0000" RightMargin="292.0000" TopMargin="46.0000" BottomMargin="74.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="123.0000" Y="74.0000" />
