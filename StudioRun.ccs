@@ -136,6 +136,46 @@
               <PlistImageFile Name="tree-2-6.png" Key="tree-2-6.png" />
               <PlistImageFile Name="tree-much.png" Key="tree-much.png" />
             </PlistImageFolder>
+            <PlistImageFolder Image="B-single2.png" PListFile="B-single2.plist" Name=".B-single2_PList.Dir">
+              <PlistImageFile Name="bridge-2-1.png" Key="bridge-2-1.png" />
+              <PlistImageFile Name="bridge-2-2.png" Key="bridge-2-2.png" />
+              <PlistImageFile Name="floor-1.png" Key="floor-1.png" />
+              <PlistImageFile Name="floor-2.png" Key="floor-2.png" />
+              <PlistImageFile Name="flower-2-1.png" Key="flower-2-1.png" />
+              <PlistImageFile Name="flower-2-2.png" Key="flower-2-2.png" />
+              <PlistImageFile Name="flower-2-3.png" Key="flower-2-3.png" />
+              <PlistImageFile Name="flower-2-4.png" Key="flower-2-4.png" />
+              <PlistImageFile Name="other-2-1.png" Key="other-2-1.png" />
+              <PlistImageFile Name="other-2-2.png" Key="other-2-2.png" />
+              <PlistImageFile Name="other-2-3.png" Key="other-2-3.png" />
+              <PlistImageFile Name="other-2-4.png" Key="other-2-4.png" />
+              <PlistImageFile Name="other-2-5.png" Key="other-2-5.png" />
+              <PlistImageFile Name="pavilion-3.png" Key="pavilion-3.png" />
+              <PlistImageFile Name="pavilion-4.png" Key="pavilion-4.png" />
+              <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
+              <PlistImageFile Name="pool-2-2.png" Key="pool-2-2.png" />
+              <PlistImageFile Name="pool-2-3.png" Key="pool-2-3.png" />
+              <PlistImageFile Name="pool-2-4.png" Key="pool-2-4.png" />
+              <PlistImageFile Name="pool-2-5.png" Key="pool-2-5.png" />
+              <PlistImageFile Name="pool-2-6.png" Key="pool-2-6.png" />
+              <PlistImageFile Name="pool-2-7.png" Key="pool-2-7.png" />
+              <PlistImageFile Name="pool-2-8.png" Key="pool-2-8.png" />
+              <PlistImageFile Name="pool-2-9.png" Key="pool-2-9.png" />
+              <PlistImageFile Name="rivers-2-1.png" Key="rivers-2-1.png" />
+              <PlistImageFile Name="rivers-2-2.png" Key="rivers-2-2.png" />
+              <PlistImageFile Name="rivers-2-3.png" Key="rivers-2-3.png" />
+              <PlistImageFile Name="rivers-2-4.png" Key="rivers-2-4.png" />
+              <PlistImageFile Name="stage-2-1.png" Key="stage-2-1.png" />
+              <PlistImageFile Name="stage-2-2.png" Key="stage-2-2.png" />
+              <PlistImageFile Name="stage-2-3.png" Key="stage-2-3.png" />
+              <PlistImageFile Name="tille-2-white.png" Key="tille-2-white.png" />
+              <PlistImageFile Name="tree-2-1.png" Key="tree-2-1.png" />
+              <PlistImageFile Name="tree-2-2.png" Key="tree-2-2.png" />
+              <PlistImageFile Name="tree-2-3.png" Key="tree-2-3.png" />
+              <PlistImageFile Name="tree-2-4.png" Key="tree-2-4.png" />
+              <PlistImageFile Name="umbrella.png" Key="umbrella.png" />
+              <PlistImageFile Name="water-2-1.png" Key="water-2-1.png" />
+            </PlistImageFolder>
             <PlistImageFolder Image="B-special.png" PListFile="B-special.plist" Name=".B-special_PList.Dir">
               <PlistImageFile Name="single-btn-1.png" Key="single-btn-1.png" />
               <PlistImageFile Name="single-btn-2.png" Key="single-btn-2.png" />
@@ -241,6 +281,7 @@
               <PlistImageFile Name="sp-6.png" Key="sp-6.png" />
               <PlistImageFile Name="sp-7.png" Key="sp-7.png" />
               <PlistImageFile Name="sp-8.png" Key="sp-8.png" />
+              <PlistImageFile Name="sp-80.png" Key="sp-80.png" />
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
               <PlistImageFile Name="wall.png" Key="wall.png" />
@@ -271,9 +312,20 @@
             <Project Name="room_main.csd" Type="Node" />
           </Folder>
           <Folder Name="bmsingle">
-            <Project Name="map_1.csd" Type="Node" />
             <Project Name="map_game.csd" Type="Node" />
             <Project Name="single_map.csd" Type="Node" />
+            <Folder Name="map">
+              <Project Name="map_1.csd" Type="Node" />
+              <Project Name="map_2.csd" Type="Node" />
+              <Project Name="map_3.csd" Type="Node" />
+              <Project Name="map_4.csd" Type="Node" />
+              <Project Name="map_5.csd" Type="Node" />
+              <Project Name="map_6.csd" Type="Node" />
+              <Project Name="map_7.csd" Type="Node" />
+              <Project Name="map_8.csd" Type="Node" />
+              <Project Name="map_9.csd" Type="Node" />
+              <Project Name="map_10.csd" Type="Node" />
+            </Folder>
           </Folder>
           <Folder Name="common">
             <Project Name="head.csd" Type="Node" />
