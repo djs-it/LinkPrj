@@ -1252,6 +1252,19 @@
                 <key>sourceSize</key>
                 <string>{95,134}</string>
             </dict>
+            <key>sp-80.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{666,1686},{95,134}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{95,134}}</string>
+                <key>sourceSize</key>
+                <string>{95,134}</string>
+            </dict>
             <key>sp-9.png</key>
             <dict>
                 <key>frame</key>
@@ -1301,7 +1314,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:72781ef1c1fbea7d8aac8bdca50f07ae:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:47a26b09e84a50655e79201f70e9e390:1/1$</string>
             <key>textureFileName</key>
             <string>Link.png</string>
         </dict>
