@@ -38,16 +38,16 @@
                   <AbstractNodeData Name="Sprite_1" ActionTag="1899182671" Tag="122" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="291.0000" RightMargin="291.0000" TopMargin="336.1765" BottomMargin="965.8235" ctype="SpriteObjectData">
                     <Size X="378.0000" Y="138.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_1" ActionTag="-1044794183" Tag="123" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="92.0000" RightMargin="92.0000" TopMargin="40.0000" BottomMargin="40.0000" FontSize="48" LabelText="随机模式" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="194.0000" Y="58.0000" />
+                      <AbstractNodeData Name="Text_1" ActionTag="-1044794183" Tag="123" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="89.4993" RightMargin="89.5007" TopMargin="30.9292" BottomMargin="39.0708" FontSize="48" LabelText="随机模式" OutlineSize="5" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="199.0000" Y="68.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="189.0000" Y="69.0000" />
+                        <Position X="188.9993" Y="73.0708" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="255" G="110" B="165" />
-                        <PrePosition X="0.5000" Y="0.5000" />
-                        <PreSize X="0.5132" Y="0.4203" />
+                        <CColor A="255" R="255" G="255" B="255" />
+                        <PrePosition X="0.5000" Y="0.5295" />
+                        <PreSize X="0.5265" Y="0.4928" />
                         <FontResource Type="Normal" Path="Resource/font/FZY4K.ttf" Plist="" />
-                        <OutlineColor A="255" R="255" G="0" B="0" />
+                        <OutlineColor A="255" R="103" G="65" B="78" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
                     </Children>
@@ -334,7 +334,7 @@
                   <AbstractNodeData Name="Panel_8" ActionTag="2027638644" Tag="189" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="384.8000" RightMargin="375.2000" TopMargin="845.5598" BottomMargin="394.4402" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <Children>
-                      <AbstractNodeData Name="Sprite_82" ActionTag="850688890" Tag="190" IconVisible="False" LeftMargin="-123.2654" RightMargin="116.2654" TopMargin="27.8698" BottomMargin="66.1302" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="Sprite_82" ActionTag="850688890" Tag="190" IconVisible="False" LeftMargin="-157.8687" RightMargin="150.8687" TopMargin="25.8345" BottomMargin="68.1655" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
                           <AbstractNodeData Name="stageleftcsd" ActionTag="557310018" Tag="150" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
@@ -352,10 +352,10 @@
                           </AbstractNodeData>
                         </Children>
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="-19.7654" Y="119.1302" />
+                        <Position X="-54.3687" Y="121.1655" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="-0.0988" Y="0.5957" />
+                        <PrePosition X="-0.2718" Y="0.6058" />
                         <PreSize X="1.0350" Y="0.5300" />
                         <FileData Type="PlistSubImage" Path="animal-bottom.png" Plist="Resource/atlas/B-common.plist" />
                         <BlendFunc Src="1" Dst="771" />
