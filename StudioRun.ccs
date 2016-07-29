@@ -125,26 +125,6 @@
               <PlistImageFile Name="room-windows.png" Key="room-windows.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-single.png" PListFile="B-single.plist" Name=".B-single_PList.Dir">
-              <PlistImageFile Name="line-star.png" Key="line-star.png" />
-              <PlistImageFile Name="pavilion-1.png" Key="pavilion-1.png" />
-              <PlistImageFile Name="pavilion-2.png" Key="pavilion-2.png" />
-              <PlistImageFile Name="room-fountains.png" Key="room-fountains.png" />
-              <PlistImageFile Name="room-ground.png" Key="room-ground.png" />
-              <PlistImageFile Name="room-pool-301x206.png" Key="room-pool-301x206.png" />
-              <PlistImageFile Name="room-way-1.png" Key="room-way-1.png" />
-              <PlistImageFile Name="room-way-2.png" Key="room-way-2.png" />
-              <PlistImageFile Name="room-way-3.png" Key="room-way-3.png" />
-              <PlistImageFile Name="single-way-1.png" Key="single-way-1.png" />
-              <PlistImageFile Name="single-way-2.png" Key="single-way-2.png" />
-              <PlistImageFile Name="tree-1-1.png" Key="tree-1-1.png" />
-              <PlistImageFile Name="tree-1-2.png" Key="tree-1-2.png" />
-              <PlistImageFile Name="tree-2-1.png" Key="tree-2-1.png" />
-              <PlistImageFile Name="tree-2-2.png" Key="tree-2-2.png" />
-              <PlistImageFile Name="tree-2-3.png" Key="tree-2-3.png" />
-              <PlistImageFile Name="tree-2-4.png" Key="tree-2-4.png" />
-              <PlistImageFile Name="tree-2-5.png" Key="tree-2-5.png" />
-              <PlistImageFile Name="tree-2-6.png" Key="tree-2-6.png" />
-              <PlistImageFile Name="tree-much.png" Key="tree-much.png" />
               <PlistImageFile Name="bridge-2-1.png" Key="bridge-2-1.png" />
               <PlistImageFile Name="bridge-2-2.png" Key="bridge-2-2.png" />
               <PlistImageFile Name="field-1.png" Key="field-1.png" />
@@ -153,16 +133,35 @@
               <PlistImageFile Name="flower-2-2.png" Key="flower-2-2.png" />
               <PlistImageFile Name="flower-2-3.png" Key="flower-2-3.png" />
               <PlistImageFile Name="flower-2-4.png" Key="flower-2-4.png" />
+              <PlistImageFile Name="line-star.png" Key="line-star.png" />
               <PlistImageFile Name="other-2-1.png" Key="other-2-1.png" />
               <PlistImageFile Name="other-2-2.png" Key="other-2-2.png" />
               <PlistImageFile Name="other-2-3.png" Key="other-2-3.png" />
               <PlistImageFile Name="other-2-4.png" Key="other-2-4.png" />
+              <PlistImageFile Name="pavilion-1.png" Key="pavilion-1.png" />
+              <PlistImageFile Name="pavilion-2.png" Key="pavilion-2.png" />
               <PlistImageFile Name="pavilion-3.png" Key="pavilion-3.png" />
+              <PlistImageFile Name="room-fountains.png" Key="room-fountains.png" />
+              <PlistImageFile Name="room-ground.png" Key="room-ground.png" />
+              <PlistImageFile Name="room-pool-301x206.png" Key="room-pool-301x206.png" />
+              <PlistImageFile Name="room-way-1.png" Key="room-way-1.png" />
+              <PlistImageFile Name="room-way-2.png" Key="room-way-2.png" />
+              <PlistImageFile Name="room-way-3.png" Key="room-way-3.png" />
               <PlistImageFile Name="single-point-1.png" Key="single-point-1.png" />
               <PlistImageFile Name="single-point-2.png" Key="single-point-2.png" />
+              <PlistImageFile Name="single-way-1.png" Key="single-way-1.png" />
+              <PlistImageFile Name="single-way-2.png" Key="single-way-2.png" />
               <PlistImageFile Name="stage-2-1.png" Key="stage-2-1.png" />
               <PlistImageFile Name="stage-2-2.png" Key="stage-2-2.png" />
               <PlistImageFile Name="stage-2-3.png" Key="stage-2-3.png" />
+              <PlistImageFile Name="tree-1-1.png" Key="tree-1-1.png" />
+              <PlistImageFile Name="tree-1-2.png" Key="tree-1-2.png" />
+              <PlistImageFile Name="tree-2-1.png" Key="tree-2-1.png" />
+              <PlistImageFile Name="tree-2-2.png" Key="tree-2-2.png" />
+              <PlistImageFile Name="tree-2-3.png" Key="tree-2-3.png" />
+              <PlistImageFile Name="tree-2-4.png" Key="tree-2-4.png" />
+              <PlistImageFile Name="tree-2-5.png" Key="tree-2-5.png" />
+              <PlistImageFile Name="tree-2-6.png" Key="tree-2-6.png" />
               <PlistImageFile Name="tree-2-7.png" Key="tree-2-7.png" />
               <PlistImageFile Name="tree-2-8.png" Key="tree-2-8.png" />
               <PlistImageFile Name="tree-2-special.png" Key="tree-2-special.png" />
@@ -170,18 +169,19 @@
               <PlistImageFile Name="tree-3-2.png" Key="tree-3-2.png" />
               <PlistImageFile Name="tree-4-1.png" Key="tree-4-1.png" />
               <PlistImageFile Name="tree-5-1.png" Key="tree-5-1.png" />
+              <PlistImageFile Name="tree-much.png" Key="tree-much.png" />
               <PlistImageFile Name="tree-p-1.png" Key="tree-p-1.png" />
               <PlistImageFile Name="tree-p-2.png" Key="tree-p-2.png" />
               <PlistImageFile Name="umbrella.png" Key="umbrella.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-special.png" PListFile="B-special.plist" Name=".B-special_PList.Dir">
+              <PlistImageFile Name="room-main-1.png" Key="room-main-1.png" />
+              <PlistImageFile Name="room-main-2.png" Key="room-main-2.png" />
               <PlistImageFile Name="single-btn-1.png" Key="single-btn-1.png" />
               <PlistImageFile Name="single-btn-2.png" Key="single-btn-2.png" />
               <PlistImageFile Name="single-btn-3.png" Key="single-btn-3.png" />
               <PlistImageFile Name="single-star-1.png" Key="single-star-1.png" />
               <PlistImageFile Name="single-star-2.png" Key="single-star-2.png" />
-              <PlistImageFile Name="room-main-1.png" Key="room-main-1.png" />
-              <PlistImageFile Name="room-main-2.png" Key="room-main-2.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="Link.png" PListFile="Link.plist" Name=".Link_PList.Dir">
               <PlistImageFile Name="anm-0.png" Key="anm-0.png" />
@@ -294,7 +294,6 @@
             <TTF Name="HURTMOLD.TTF" />
           </Folder>
           <Folder Name="other">
-            <Image Name="KTLLK-.png" />
             <Image Name="progress-1.png" />
             <Image Name="switch-mask.png" />
             <Image Name="switch-off.png" />
