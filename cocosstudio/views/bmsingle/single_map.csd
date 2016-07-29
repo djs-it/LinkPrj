@@ -197,7 +197,7 @@
                   <AbstractNodeData Name="ScrollView_2" Visible="False" ActionTag="-99677848" Tag="372" RotationSkewX="180.0000" RotationSkewY="180.0000" IconVisible="False" LeftMargin="83.3251" RightMargin="82.6749" TopMargin="559.1150" BottomMargin="230.8850" TouchEnable="True" ClipAble="True" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" IsBounceEnabled="True" ScrollDirectionType="Vertical" ctype="ScrollViewObjectData">
                     <Size X="794.0000" Y="650.0000" />
                     <Children>
-                      <AbstractNodeData Name="singlemap" ActionTag="310808410" Tag="373" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="397.0000" RightMargin="397.0000" BottomMargin="4000.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                      <AbstractNodeData Name="singlemap" ActionTag="310808410" Tag="373" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="397.0000" RightMargin="397.0000" BottomMargin="8000.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                         <Size X="0.0000" Y="0.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="397.0000" Y="8000.0000" />
@@ -233,13 +233,13 @@
                     <PreSize X="0.8854" Y="0.4938" />
                     <FileData Type="PlistSubImage" Path="main-dialog-sprite.png" Plist="Resource/atlas/B-common.plist" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_19" ActionTag="-1931805882" Tag="371" IconVisible="False" LeftMargin="145.9999" RightMargin="786.0001" TopMargin="1225.0000" BottomMargin="168.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_19" ActionTag="-1931805882" Tag="371" IconVisible="False" LeftMargin="145.9999" RightMargin="786.0001" TopMargin="1226.0000" BottomMargin="167.0000" ctype="SpriteObjectData">
                     <Size X="28.0000" Y="47.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-                    <Position X="159.9999" Y="215.0000" />
+                    <Position X="159.9999" Y="214.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.5000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.1667" Y="0.1493" />
+                    <PrePosition X="0.1667" Y="0.1486" />
                     <PreSize X="0.0292" Y="0.0326" />
                     <FileData Type="PlistSubImage" Path="main-dialog-line.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
