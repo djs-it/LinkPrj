@@ -6,11 +6,11 @@
       <ObjectData Name="Node" Tag="498" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_109" Visible="False" ActionTag="-44090886" Tag="309" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-398.5000" RightMargin="-398.5000" TopMargin="-8194.0000" ctype="SpriteObjectData">
-            <Size X="797.0000" Y="8194.0000" />
+          <AbstractNodeData Name="Sprite_109" Visible="False" ActionTag="-44090886" Tag="309" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-199.0000" RightMargin="-199.0000" TopMargin="-4096.0000" ctype="SpriteObjectData">
+            <Size X="398.0000" Y="4096.0000" />
             <AnchorPoint ScaleX="0.5000" />
             <Position />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <Scale ScaleX="2.0000" ScaleY="2.0000" />
             <CColor A="255" R="255" G="255" B="255" />
             <PrePosition />
             <PreSize X="0.0000" Y="0.0000" />
