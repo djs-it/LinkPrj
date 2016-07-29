@@ -312,10 +312,9 @@
             <Project Name="room_main.csd" Type="Node" />
           </Folder>
           <Folder Name="bmsingle">
-            <Project Name="map_game.csd" Type="Node" />
-            <Project Name="single_map.csd" Type="Node" />
             <Folder Name="map">
               <Project Name="map_1.csd" Type="Node" />
+              <Project Name="map_10.csd" Type="Node" />
               <Project Name="map_2.csd" Type="Node" />
               <Project Name="map_3.csd" Type="Node" />
               <Project Name="map_4.csd" Type="Node" />
@@ -324,11 +323,12 @@
               <Project Name="map_7.csd" Type="Node" />
               <Project Name="map_8.csd" Type="Node" />
               <Project Name="map_9.csd" Type="Node" />
-              <Project Name="map_10.csd" Type="Node" />
             </Folder>
+            <Project Name="map_game.csd" Type="Node" />
+            <Project Name="single_map.csd" Type="Node" />
           </Folder>
           <Folder Name="common">
-            <Project Name="head.csd" Type="Node" />
+            <Project Name="animal_head.csd" Type="Node" />
             <Project Name="level_bn.csd" Type="Node" />
             <Project Name="map_tree.csd" Type="Node" />
           </Folder>

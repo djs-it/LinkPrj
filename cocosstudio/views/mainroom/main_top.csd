@@ -50,23 +50,13 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="mainhead" ActionTag="-657660661" Tag="87" IconVisible="True" LeftMargin="207.4197" RightMargin="872.5803" TopMargin="127.6790" BottomMargin="22.3210" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
-                <Size X="0.0000" Y="0.0000" />
-                <AnchorPoint />
-                <Position X="207.4197" Y="22.3210" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1921" Y="0.1488" />
-                <PreSize X="0.0000" Y="0.0000" />
-                <FileData Type="Normal" Path="views/common/head.csd" Plist="" />
-              </AbstractNodeData>
               <AbstractNodeData Name="Sprite_5" ActionTag="50049006" Tag="93" IconVisible="False" LeftMargin="245.0760" RightMargin="748.9240" TopMargin="142.6009" BottomMargin="-85.6009" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="93.0000" />
                 <Children>
-                  <AbstractNodeData Name="leaveltxt" ActionTag="1414808758" Tag="94" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="37.0188" RightMargin="30.9812" TopMargin="16.0819" BottomMargin="18.9181" FontSize="48" LabelText="1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                  <AbstractNodeData Name="leaveltxt" ActionTag="1414808758" Tag="94" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="37.0186" RightMargin="30.9814" TopMargin="16.0864" BottomMargin="18.9136" FontSize="48" LabelText="1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                     <Size X="18.0000" Y="58.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="46.0188" Y="47.9181" />
+                    <Position X="46.0186" Y="47.9136" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="103" G="65" B="78" />
                     <PrePosition X="0.5351" Y="0.5152" />

@@ -1,5 +1,5 @@
 <GameFile>
-  <PropertyGroup Name="head" Type="Node" ID="81ca00d8-9402-49bd-a472-cf9ee9997fd2" Version="3.10.0.0" />
+  <PropertyGroup Name="animal_head" Type="Node" ID="81ca00d8-9402-49bd-a472-cf9ee9997fd2" Version="3.10.0.0" />
   <Content ctype="GameProjectContent">
     <Content>
       <Animation Duration="0" Speed="1.0000" />
@@ -20,15 +20,15 @@
                 <FileData Type="PlistSubImage" Path="head-circle-in.png" Plist="Resource/atlas/B-common.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_2" ActionTag="833906934" Tag="85" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="65.0000" RightMargin="65.0000" TopMargin="82.8967" BottomMargin="57.1033" ctype="SpriteObjectData">
-                <Size X="170.0000" Y="160.0000" />
+              <AbstractNodeData Name="anmcomcsd" ActionTag="833906934" Tag="85" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="65.0000" RightMargin="65.0000" TopMargin="82.9000" BottomMargin="57.1000" ctype="SpriteObjectData">
+                <Size X="122.0000" Y="211.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="150.0000" Y="137.1033" />
+                <Position X="150.0000" Y="137.1000" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition X="0.5000" Y="0.4570" />
                 <PreSize X="0.5667" Y="0.5333" />
-                <FileData Type="PlistSubImage" Path="head-kitty.png" Plist="Resource/atlas/B-common.plist" />
+                <FileData Type="PlistSubImage" Path="anm-15.png" Plist="Resource/atlas/Link.plist" />
                 <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="Sprite_3" ActionTag="612042103" Tag="86" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="46.5000" RightMargin="46.5000" TopMargin="42.0000" BottomMargin="42.0000" ctype="SpriteObjectData">
