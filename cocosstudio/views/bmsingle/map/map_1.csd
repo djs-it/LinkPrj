@@ -6,21 +6,10 @@
       <ObjectData Name="Node" Tag="209" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_1" Visible="False" ActionTag="1589129285" Alpha="101" Tag="3" IconVisible="False" LeftMargin="-398.8796" RightMargin="-398.1204" TopMargin="-8193.6250" BottomMargin="-0.3750" ctype="SpriteObjectData">
-            <Size X="797.0000" Y="8194.0000" />
-            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-            <Position X="-0.3796" Y="4096.6250" />
-            <Scale ScaleX="1.0000" ScaleY="1.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="Resource/other/KTLLK-.png" Plist="" />
-            <BlendFunc Src="770" Dst="771" />
-          </AbstractNodeData>
-          <AbstractNodeData Name="Panel_1" ActionTag="291240477" Tag="210" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-397.0000" RightMargin="-397.0000" TopMargin="-2000.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_1" ActionTag="291240477" Tag="210" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-397.0000" RightMargin="-397.0000" TopMargin="-2000.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="794.0000" Y="2000.0000" />
             <Children>
-              <AbstractNodeData Name="Panel_ground" ActionTag="-1041868695" Tag="37" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_ground" ActionTag="-1041868695" Tag="37" IconVisible="False" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
                   <AbstractNodeData Name="Sprite_3" ActionTag="-9020374" Tag="32" IconVisible="False" LeftMargin="-22.8337" RightMargin="509.8337" TopMargin="1591.8337" BottomMargin="109.1662" ctype="SpriteObjectData">
@@ -45,7 +34,7 @@
                     <FileData Type="PlistSubImage" Path="grass-change.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_3_1" ActionTag="-436558278" Tag="37" IconVisible="False" LeftMargin="534.1667" RightMargin="-47.1667" TopMargin="1804.8334" BottomMargin="-103.8333" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_3_1" ActionTag="-436558278" Tag="37" IconVisible="False" LeftMargin="534.1667" RightMargin="-47.1667" TopMargin="1804.8333" BottomMargin="-103.8333" ctype="SpriteObjectData">
                     <Size X="307.0000" Y="299.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="687.6667" Y="45.6667" />
@@ -156,7 +145,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_boss" ActionTag="-945026925" Tag="38" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_boss" ActionTag="-945026925" Tag="38" IconVisible="False" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
                   <AbstractNodeData Name="Sprite_32" ActionTag="-1611303330" Tag="35" IconVisible="False" LeftMargin="325.8389" RightMargin="191.1611" TopMargin="505.0918" BottomMargin="1204.9082" ctype="SpriteObjectData">
@@ -193,7 +182,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_dot" ActionTag="1239566938" Tag="39" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_dot" ActionTag="1239566938" Tag="39" IconVisible="False" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
                   <AbstractNodeData Name="Sprite_31" ActionTag="-675583502" Tag="34" IconVisible="False" LeftMargin="93.3971" RightMargin="683.6029" TopMargin="749.4915" BottomMargin="1233.5085" ctype="SpriteObjectData">
@@ -383,7 +372,7 @@
                     <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="400566949" Tag="60" IconVisible="False" LeftMargin="470.1169" RightMargin="306.8831" TopMargin="1207.5476" BottomMargin="775.4525" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="400566949" Tag="60" IconVisible="False" LeftMargin="470.1169" RightMargin="306.8831" TopMargin="1207.5475" BottomMargin="775.4525" ctype="SpriteObjectData">
                     <Size X="17.0000" Y="17.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="478.6169" Y="783.9525" />
@@ -394,7 +383,7 @@
                     <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="-1255138910" Tag="61" IconVisible="False" LeftMargin="426.7325" RightMargin="350.2675" TopMargin="1226.5288" BottomMargin="756.4713" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="-1255138910" Tag="61" IconVisible="False" LeftMargin="426.7325" RightMargin="350.2675" TopMargin="1226.5287" BottomMargin="756.4713" ctype="SpriteObjectData">
                     <Size X="17.0000" Y="17.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="435.2325" Y="764.9713" />
@@ -460,7 +449,7 @@
                     <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="1562572616" Tag="67" IconVisible="False" LeftMargin="222.3061" RightMargin="554.6939" TopMargin="1608.8322" BottomMargin="374.1678" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="1562572616" Tag="67" IconVisible="False" LeftMargin="222.3061" RightMargin="554.6939" TopMargin="1608.8323" BottomMargin="374.1678" ctype="SpriteObjectData">
                     <Size X="17.0000" Y="17.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="230.8061" Y="382.6678" />
@@ -559,7 +548,7 @@
                     <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="1904404347" Tag="76" IconVisible="False" LeftMargin="503.8867" RightMargin="273.1133" TopMargin="1576.6072" BottomMargin="406.3929" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="1904404347" Tag="76" IconVisible="False" LeftMargin="503.8867" RightMargin="273.1133" TopMargin="1576.6071" BottomMargin="406.3929" ctype="SpriteObjectData">
                     <Size X="17.0000" Y="17.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="512.3867" Y="414.8929" />
@@ -614,7 +603,7 @@
                     <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="-1520695878" Tag="81" IconVisible="False" LeftMargin="420.1765" RightMargin="356.8235" TopMargin="1744.8522" BottomMargin="238.1479" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_31_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0_0" ActionTag="-1520695878" Tag="81" IconVisible="False" LeftMargin="420.1765" RightMargin="356.8235" TopMargin="1744.8521" BottomMargin="238.1479" ctype="SpriteObjectData">
                     <Size X="17.0000" Y="17.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="428.6765" Y="246.6479" />
@@ -901,7 +890,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_tree" ActionTag="-423240961" Tag="17" IconVisible="False" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_tree" ActionTag="-423240961" Tag="17" IconVisible="False" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
                   <AbstractNodeData Name="Sprite_2" ActionTag="444789017" Tag="4" IconVisible="False" LeftMargin="404.0515" RightMargin="258.9485" TopMargin="1865.3662" BottomMargin="2.6338" ctype="SpriteObjectData">
