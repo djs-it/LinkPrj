@@ -28,5 +28,22 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="views/common/head.csd" />
+          <FilePathData Path="views/mainroom/main_bm_btn.csd" />
+          <FilePathData Path="views/mainroom/main_bottom.csd" />
+          <FilePathData Path="views/mainroom/main_room.csd" />
+          <FilePathData Path="views/mainroom/main_top.csd" />
+          <FilePathData Path="views/gaming/begin_single_rand.csd" />
+          <FilePathData Path="views/gaming/begin_single_level.csd" />
+          <FilePathData Path="views/gaming/gaming_bg.csd" />
+          <FilePathData Path="views/gaming/gaming_bm.csd" />
+          <FilePathData Path="views/gaming/gaming_level_over.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="views/gaming/begin_single_level.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
