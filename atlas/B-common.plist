@@ -667,19 +667,6 @@
                 <key>sourceSize</key>
                 <string>{237,237}</string>
             </dict>
-            <key>dialog-light.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,426},{337,337}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{337,337}}</string>
-                <key>sourceSize</key>
-                <string>{337,337}</string>
-            </dict>
             <key>gaming-bm-friend.png</key>
             <dict>
                 <key>frame</key>
@@ -1210,7 +1197,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:5e9235f832a0efa7272a65575be4c359:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:a76e74876c28afb072bb856b3778b577:1/1$</string>
             <key>textureFileName</key>
             <string>B-common.png</string>
         </dict>
