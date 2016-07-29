@@ -24,17 +24,6 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Sprite_1" ActionTag="-1841623343" Tag="81" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.4040" RightMargin="-1.4041" TopMargin="130.6400" BottomMargin="-90.6400" ctype="SpriteObjectData">
-                <Size X="1080.0000" Y="110.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="541.4040" Y="-35.6400" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5013" Y="-0.2376" />
-                <PreSize X="1.0000" Y="0.7333" />
-                <FileData Type="PlistSubImage" Path="main-top-head.png" Plist="Resource/atlas/B-common.plist" />
-                <BlendFunc Src="1" Dst="771" />
-              </AbstractNodeData>
               <AbstractNodeData Name="btnFriend" ActionTag="-1424475514" CallBackType="Click" CallBackName="btnFriend" UserData="sb" Tag="95" IconVisible="False" LeftMargin="131.7092" RightMargin="798.2908" TopMargin="223.2110" BottomMargin="-258.2110" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="120" Scale9Height="163" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                 <Size X="150.0000" Y="185.0000" />
                 <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
@@ -49,6 +38,32 @@
                 <NormalFileData Type="PlistSubImage" Path="main-top-friend.png" Plist="Resource/atlas/B-common.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Sprite_1" ActionTag="-1841623343" Tag="81" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.4040" RightMargin="-1.4041" TopMargin="130.6400" BottomMargin="-90.6400" ctype="SpriteObjectData">
+                <Size X="1080.0000" Y="110.0000" />
+                <Children>
+                  <AbstractNodeData Name="anmheadcsd" ActionTag="-2054459404" Tag="12" IconVisible="False" LeftMargin="202.0000" RightMargin="878.0000" TopMargin="4.0000" BottomMargin="106.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                    <Size X="0.0000" Y="0.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="202.0000" Y="106.0000" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1870" Y="0.9636" />
+                    <PreSize X="0.0000" Y="0.0000" />
+                    <SingleColor A="255" R="150" G="200" B="255" />
+                    <FirstColor A="255" R="150" G="200" B="255" />
+                    <EndColor A="255" R="255" G="255" B="255" />
+                    <ColorVector ScaleY="1.0000" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="541.4040" Y="-35.6400" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5013" Y="-0.2376" />
+                <PreSize X="1.0000" Y="0.7333" />
+                <FileData Type="PlistSubImage" Path="main-top-head.png" Plist="Resource/atlas/B-common.plist" />
+                <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="Sprite_5" ActionTag="50049006" Tag="93" IconVisible="False" LeftMargin="245.0760" RightMargin="748.9240" TopMargin="142.6009" BottomMargin="-85.6009" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="93.0000" />
