@@ -253,7 +253,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5015" Y="0.5111" />
                         <PreSize X="0.8750" Y="0.5206" />
-                        <FileData Type="PlistSubImage" Path="room-main-1.png" Plist="Resource/atlas/B-single.plist" />
+                        <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Panel_4" ActionTag="-1072683253" Tag="1039" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" TouchEnable="True" ClipAble="True" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
@@ -465,7 +465,7 @@
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5219" Y="0.5237" />
                         <PreSize X="0.9158" Y="0.5608" />
-                        <FileData Type="PlistSubImage" Path="room-main-2.png" Plist="Resource/atlas/B-single.plist" />
+                        <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
                     </Children>

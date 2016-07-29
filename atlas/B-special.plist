@@ -4,14 +4,40 @@
     <dict>
         <key>frames</key>
         <dict>
-            <key>single-btn-1.png</key>
+            <key>room-main-1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,182},{84,88}}</string>
+                <string>{{744,2},{707,531}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
                 <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{707,531}}</string>
+                <key>sourceSize</key>
+                <string>{707,531}</string>
+            </dict>
+            <key>room-main-2.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{740,572}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{740,572}}</string>
+                <key>sourceSize</key>
+                <string>{740,572}</string>
+            </dict>
+            <key>single-btn-1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1633,2},{84,88}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{84,88}}</string>
                 <key>sourceSize</key>
@@ -20,11 +46,11 @@
             <key>single-btn-2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,92},{84,88}}</string>
+                <string>{{1543,2},{84,88}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{84,88}}</string>
                 <key>sourceSize</key>
@@ -33,37 +59,24 @@
             <key>single-btn-3.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,2},{84,88}}</string>
+                <string>{{1453,2},{84,88}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{84,88}}</string>
                 <key>sourceSize</key>
                 <string>{84,88}</string>
             </dict>
-            <key>single-point.png</key>
-            <dict>
-                <key>frame</key>
-                <string>{{2,342},{17,17}}</string>
-                <key>offset</key>
-                <string>{0,0}</string>
-                <key>rotated</key>
-                <false/>
-                <key>sourceColorRect</key>
-                <string>{{0,0},{17,17}}</string>
-                <key>sourceSize</key>
-                <string>{17,17}</string>
-            </dict>
             <key>single-star-1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,307},{32,33}}</string>
+                <string>{{1758,2},{32,33}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{32,33}}</string>
                 <key>sourceSize</key>
@@ -72,11 +85,11 @@
             <key>single-star-2.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{2,272},{32,33}}</string>
+                <string>{{1723,2},{32,33}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
-                <false/>
+                <true/>
                 <key>sourceColorRect</key>
                 <string>{{0,0},{32,33}}</string>
                 <key>sourceSize</key>
@@ -92,7 +105,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:4a3e5c72f74c5bdb42fc34b2c9e69542:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:98c847d04b775b6a68cbaba99542da28:1/1$</string>
             <key>textureFileName</key>
             <string>B-special.png</string>
         </dict>
