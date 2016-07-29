@@ -30,6 +30,26 @@
                 <PreSize X="0.0000" Y="0.0000" />
                 <FileData Type="Normal" Path="views/bmsingle/map/map_1.csd" Plist="" />
               </AbstractNodeData>
+              <AbstractNodeData Name="FileNode_2" ActionTag="-1422971241" Tag="418" IconVisible="True" PositionPercentXEnabled="True" LeftMargin="397.0000" RightMargin="397.0000" TopMargin="7000.0000" BottomMargin="2000.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+                <Size X="0.0000" Y="0.0000" />
+                <AnchorPoint />
+                <Position X="397.0000" Y="2000.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.2222" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="Normal" Path="views/bmsingle/map/map_2.csd" Plist="" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="FileNode_3" ActionTag="2068109076" Tag="966" IconVisible="True" PositionPercentXEnabled="True" LeftMargin="397.0000" RightMargin="397.0000" TopMargin="5500.0000" BottomMargin="3500.0000" StretchWidthEnable="False" StretchHeightEnable="False" InnerActionSpeed="1.0000" CustomSizeEnabled="False" ctype="ProjectNodeObjectData">
+                <Size X="0.0000" Y="0.0000" />
+                <AnchorPoint />
+                <Position X="397.0000" Y="3500.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.5000" Y="0.3889" />
+                <PreSize X="0.0000" Y="0.0000" />
+                <FileData Type="Normal" Path="views/bmsingle/map/map_3.csd" Plist="" />
+              </AbstractNodeData>
             </Children>
             <AnchorPoint ScaleX="0.5000" />
             <Position />

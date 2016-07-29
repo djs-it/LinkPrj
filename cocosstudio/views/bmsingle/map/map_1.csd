@@ -145,7 +145,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_boss" ActionTag="-945026925" Tag="38" IconVisible="False" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_boss" ActionTag="-945026925" Tag="38" IconVisible="False" LeftMargin="-0.0001" RightMargin="0.0001" TopMargin="2.0176" BottomMargin="-2.0175" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
                   <AbstractNodeData Name="Sprite_32" ActionTag="-1611303330" Tag="35" IconVisible="False" LeftMargin="325.8389" RightMargin="191.1611" TopMargin="505.0918" BottomMargin="1204.9082" ctype="SpriteObjectData">
@@ -172,10 +172,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position />
+                <Position X="-0.0001" Y="-2.0175" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition />
+                <PrePosition X="0.0000" Y="-0.0010" />
                 <PreSize X="1.0000" Y="1.0000" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
