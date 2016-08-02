@@ -197,6 +197,7 @@
               <PlistImageFile Name="anm-19.png" Key="anm-19.png" />
               <PlistImageFile Name="anm-2.png" Key="anm-2.png" />
               <PlistImageFile Name="anm-20.png" Key="anm-20.png" />
+              <PlistImageFile Name="anm-21.png" Key="anm-21.png" />
               <PlistImageFile Name="anm-3.png" Key="anm-3.png" />
               <PlistImageFile Name="anm-4.png" Key="anm-4.png" />
               <PlistImageFile Name="anm-5.png" Key="anm-5.png" />
@@ -283,7 +284,6 @@
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
               <PlistImageFile Name="wall.png" Key="wall.png" />
-              <PlistImageFile Name="anm-21.png" Key="anm-21.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>

@@ -70,26 +70,26 @@
               <AbstractNodeData Name="Sprite_14" ActionTag="-872520209" Tag="750" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="92.6000" RightMargin="572.4000" TopMargin="80.0000" ctype="SpriteObjectData">
                 <Size X="415.0000" Y="120.0000" />
                 <Children>
-                  <AbstractNodeData Name="stageleftcsd" ActionTag="1114297002" Tag="161" IconVisible="False" LeftMargin="123.0000" RightMargin="292.0000" TopMargin="46.0000" BottomMargin="74.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="stageleftcsd" ActionTag="1114297002" Tag="161" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="123.0000" RightMargin="292.0000" TopMargin="84.0000" BottomMargin="36.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="123.0000" Y="74.0000" />
+                    <Position X="123.0000" Y="36.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.2964" Y="0.6167" />
+                    <PrePosition X="0.2964" Y="0.3000" />
                     <PreSize X="0.0000" Y="0.0000" />
                     <SingleColor A="255" R="150" G="200" B="255" />
                     <FirstColor A="255" R="150" G="200" B="255" />
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="stagerightcsd" ActionTag="-718890931" Tag="162" IconVisible="False" LeftMargin="291.0000" RightMargin="124.0000" TopMargin="46.0000" BottomMargin="74.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="stagerightcsd" ActionTag="-718890931" Tag="162" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="291.0000" RightMargin="124.0000" TopMargin="84.0000" BottomMargin="36.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="291.0000" Y="74.0000" />
+                    <Position X="291.0000" Y="36.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.7012" Y="0.6167" />
+                    <PrePosition X="0.7012" Y="0.3000" />
                     <PreSize X="0.0000" Y="0.0000" />
                     <SingleColor A="255" R="150" G="200" B="255" />
                     <FirstColor A="255" R="150" G="200" B="255" />

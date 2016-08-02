@@ -38,10 +38,10 @@
                   <AbstractNodeData Name="Sprite_1" ActionTag="1899182671" Tag="122" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="291.0000" RightMargin="291.0000" TopMargin="336.1765" BottomMargin="965.8235" ctype="SpriteObjectData">
                     <Size X="378.0000" Y="138.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_1" ActionTag="-1044794183" Tag="123" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="89.4993" RightMargin="89.5007" TopMargin="30.9292" BottomMargin="39.0708" FontSize="48" LabelText="随机模式" OutlineSize="5" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_1" ActionTag="-1044794183" Tag="123" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="89.5000" RightMargin="89.5000" TopMargin="30.9290" BottomMargin="39.0710" FontSize="48" LabelText="随机模式" OutlineSize="5" OutlineEnabled="True" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="199.0000" Y="68.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="188.9993" Y="73.0708" />
+                        <Position X="189.0000" Y="73.0710" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5000" Y="0.5295" />
@@ -337,13 +337,13 @@
                       <AbstractNodeData Name="Sprite_82" ActionTag="850688890" Tag="190" IconVisible="False" LeftMargin="-157.8687" RightMargin="150.8687" TopMargin="25.8345" BottomMargin="68.1655" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
-                          <AbstractNodeData Name="stageleftcsd" ActionTag="557310018" Tag="150" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                          <AbstractNodeData Name="stageleftcsd" ActionTag="557310018" Tag="150" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="58.3000" BottomMargin="47.7000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                            <Position X="100.0000" Y="100.0000" />
+                            <Position X="100.0000" Y="47.7000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.4831" Y="0.9434" />
+                            <PrePosition X="0.4831" Y="0.4500" />
                             <PreSize X="0.0000" Y="0.0000" />
                             <SingleColor A="255" R="150" G="200" B="255" />
                             <FirstColor A="255" R="150" G="200" B="255" />
@@ -363,13 +363,13 @@
                       <AbstractNodeData Name="Sprite_82_0" ActionTag="415362954" Tag="192" IconVisible="False" LeftMargin="129.3126" RightMargin="-136.3126" TopMargin="27.0886" BottomMargin="66.9114" ctype="SpriteObjectData">
                         <Size X="207.0000" Y="106.0000" />
                         <Children>
-                          <AbstractNodeData Name="stagerightcsd" ActionTag="-1541474395" Tag="151" IconVisible="False" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="6.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                          <AbstractNodeData Name="stagerightcsd" ActionTag="-1541474395" Tag="151" IconVisible="False" PositionPercentYEnabled="True" LeftMargin="100.0000" RightMargin="107.0000" TopMargin="58.3000" BottomMargin="47.7000" TouchEnable="True" ClipAble="False" BackColorAlpha="102" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                             <Size X="0.0000" Y="0.0000" />
                             <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                            <Position X="100.0000" Y="100.0000" />
+                            <Position X="100.0000" Y="47.7000" />
                             <Scale ScaleX="1.0000" ScaleY="1.0000" />
                             <CColor A="255" R="255" G="255" B="255" />
-                            <PrePosition X="0.4831" Y="0.9434" />
+                            <PrePosition X="0.4831" Y="0.4500" />
                             <PreSize X="0.0000" Y="0.0000" />
                             <SingleColor A="255" R="150" G="200" B="255" />
                             <FirstColor A="255" R="150" G="200" B="255" />

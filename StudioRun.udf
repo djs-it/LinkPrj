@@ -32,8 +32,11 @@
       <Value ctype="TabsInfo">
         <OpenedDocuments>
           <FilePathData Path="views/bmanimal/animal_main.csd" />
+          <FilePathData Path="views/gaming/begin_single_level.csd" />
+          <FilePathData Path="views/gaming/gaming_bm.csd" />
+          <FilePathData Path="views/gaming/begin_single_rand.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="views/bmanimal/animal_main.csd" />
+        <ActiveDocument Path="views/gaming/begin_single_rand.csd" />
       </Value>
     </Item>
   </Properties>
