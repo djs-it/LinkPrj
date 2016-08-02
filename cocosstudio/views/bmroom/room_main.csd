@@ -245,15 +245,15 @@
                         <PreSize X="0.3725" Y="0.2020" />
                         <FileData Type="PlistSubImage" Path="room-pool-301x206.png" Plist="Resource/atlas/B-single.plist" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="floorone" ActionTag="-1568276295" Tag="363" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.7120" RightMargin="49.2880" TopMargin="233.1780" BottomMargin="255.8220" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="floorone" ActionTag="-1568276295" Tag="363" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="382.2120" RightMargin="379.7880" TopMargin="475.6780" BottomMargin="498.3220" ctype="SpriteObjectData">
                         <Size X="707.0000" Y="531.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="405.2120" Y="521.3220" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5015" Y="0.5111" />
-                        <PreSize X="0.8750" Y="0.5206" />
-                        <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                        <PreSize X="0.0569" Y="0.0451" />
+                        <FileData Type="PlistSubImage" Path="room-main-1.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
                       <AbstractNodeData Name="Panel_4" ActionTag="-1072683253" Tag="1039" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" TouchEnable="True" ClipAble="True" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
@@ -457,15 +457,15 @@
                         <PreSize X="1.0705" Y="1.0637" />
                         <FileData Type="PlistSubImage" Path="main-dialog-sprite.png" Plist="Resource/atlas/B-common.plist" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="floortwo" Visible="False" ActionTag="-1432759810" Tag="364" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="51.6952" RightMargin="16.3048" TopMargin="199.8260" BottomMargin="248.1740" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="floortwo" Visible="False" ActionTag="-1432759810" Tag="364" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="398.6952" RightMargin="363.3048" TopMargin="462.8260" BottomMargin="511.1740" ctype="SpriteObjectData">
                         <Size X="740.0000" Y="572.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="421.6952" Y="534.1740" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5219" Y="0.5237" />
-                        <PreSize X="0.9158" Y="0.5608" />
-                        <FileData Type="Default" Path="Default/Sprite.png" Plist="" />
+                        <PreSize X="0.0569" Y="0.0451" />
+                        <FileData Type="PlistSubImage" Path="room-main-2.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
                     </Children>
