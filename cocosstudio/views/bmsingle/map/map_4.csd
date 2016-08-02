@@ -46,7 +46,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_3" ActionTag="-294492989" Tag="166" IconVisible="False" LeftMargin="-9.1394" RightMargin="603.1394" TopMargin="772.6534" BottomMargin="1027.3466" TouchEnable="True" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_3" ActionTag="-294492989" Tag="166" IconVisible="False" LeftMargin="-9.1394" RightMargin="603.1394" TopMargin="772.6534" BottomMargin="1027.3466" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="200.0000" Y="200.0000" />
                 <AnchorPoint />
                 <Position X="-9.1394" Y="1027.3466" />

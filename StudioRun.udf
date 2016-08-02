@@ -28,18 +28,5 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
-    <Item Key="TabsParamsKey">
-      <Value ctype="TabsInfo">
-        <OpenedDocuments>
-          <FilePathData Path="views/bmsingle/map_game.csd" />
-          <FilePathData Path="views/bmsingle/map/map_5.csd" />
-          <FilePathData Path="views/bmsingle/map/map_4.csd" />
-          <FilePathData Path="views/bmsingle/map/map_3.csd" />
-          <FilePathData Path="views/bmsingle/map/map_2.csd" />
-          <FilePathData Path="views/bmsingle/map/map_1.csd" />
-        </OpenedDocuments>
-        <ActiveDocument Path="views/bmsingle/map/map_4.csd" />
-      </Value>
-    </Item>
   </Properties>
 </UserData>
