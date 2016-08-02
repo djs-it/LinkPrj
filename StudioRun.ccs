@@ -284,6 +284,11 @@
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
               <PlistImageFile Name="wall.png" Key="wall.png" />
+              <PlistImageFile Name="cloud-bm.png" Key="cloud-bm.png" />
+              <PlistImageFile Name="cloud-top.png" Key="cloud-top.png" />
+              <PlistImageFile Name="ice-1.png" Key="ice-1.png" />
+              <PlistImageFile Name="ice-2.png" Key="ice-2.png" />
+              <PlistImageFile Name="ice-3.png" Key="ice-3.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>
@@ -331,6 +336,7 @@
             <Project Name="animal_head.csd" Type="Node" />
             <Project Name="level_bn.csd" Type="Node" />
             <Project Name="map_tree.csd" Type="Node" />
+            <Project Name="boss_bn.csd" Type="Node" />
           </Folder>
           <Folder Name="gaming">
             <Project Name="begin_single_level.csd" Type="Node" />
