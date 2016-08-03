@@ -205,6 +205,8 @@
               <PlistImageFile Name="anm-7.png" Key="anm-7.png" />
               <PlistImageFile Name="anm-8.png" Key="anm-8.png" />
               <PlistImageFile Name="anm-9.png" Key="anm-9.png" />
+              <PlistImageFile Name="cloud-bm.png" Key="cloud-bm.png" />
+              <PlistImageFile Name="cloud-top.png" Key="cloud-top.png" />
               <PlistImageFile Name="sp-0.png" Key="sp-0.png" />
               <PlistImageFile Name="sp-1.png" Key="sp-1.png" />
               <PlistImageFile Name="sp-10.png" Key="sp-10.png" />
@@ -219,7 +221,10 @@
               <PlistImageFile Name="sp-116.png" Key="sp-116.png" />
               <PlistImageFile Name="sp-117.png" Key="sp-117.png" />
               <PlistImageFile Name="sp-118.png" Key="sp-118.png" />
+              <PlistImageFile Name="sp-119.png" Key="sp-119.png" />
               <PlistImageFile Name="sp-12.png" Key="sp-12.png" />
+              <PlistImageFile Name="sp-120.png" Key="sp-120.png" />
+              <PlistImageFile Name="sp-121.png" Key="sp-121.png" />
               <PlistImageFile Name="sp-122.png" Key="sp-122.png" />
               <PlistImageFile Name="sp-123.png" Key="sp-123.png" />
               <PlistImageFile Name="sp-124.png" Key="sp-124.png" />
@@ -284,11 +289,6 @@
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
               <PlistImageFile Name="wall.png" Key="wall.png" />
-              <PlistImageFile Name="cloud-bm.png" Key="cloud-bm.png" />
-              <PlistImageFile Name="cloud-top.png" Key="cloud-top.png" />
-              <PlistImageFile Name="ice-1.png" Key="ice-1.png" />
-              <PlistImageFile Name="ice-2.png" Key="ice-2.png" />
-              <PlistImageFile Name="ice-3.png" Key="ice-3.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>
@@ -334,9 +334,9 @@
           </Folder>
           <Folder Name="common">
             <Project Name="animal_head.csd" Type="Node" />
+            <Project Name="boss_bn.csd" Type="Node" />
             <Project Name="level_bn.csd" Type="Node" />
             <Project Name="map_tree.csd" Type="Node" />
-            <Project Name="boss_bn.csd" Type="Node" />
           </Folder>
           <Folder Name="gaming">
             <Project Name="begin_single_level.csd" Type="Node" />

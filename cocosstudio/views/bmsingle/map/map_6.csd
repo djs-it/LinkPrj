@@ -6,17 +6,6 @@
       <ObjectData Name="Node" Tag="244" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Sprite_163" ActionTag="-1182312320" Alpha="102" Tag="343" IconVisible="False" LeftMargin="-199.0000" RightMargin="-199.0000" TopMargin="2494.0000" BottomMargin="-6590.0000" ctype="SpriteObjectData">
-            <Size X="398.0000" Y="4096.0000" />
-            <AnchorPoint ScaleX="0.5000" />
-            <Position Y="-6590.0000" />
-            <Scale ScaleX="2.0000" ScaleY="2.0000" />
-            <CColor A="255" R="255" G="255" B="255" />
-            <PrePosition />
-            <PreSize X="0.0000" Y="0.0000" />
-            <FileData Type="Normal" Path="Resource/other/KTLLK-.png" Plist="" />
-            <BlendFunc Src="770" Dst="771" />
-          </AbstractNodeData>
           <AbstractNodeData Name="Panel_1" ActionTag="-162728103" Tag="341" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-397.0000" RightMargin="-397.0000" TopMargin="-1600.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="794.0000" Y="1600.0000" />
             <Children>
@@ -58,7 +47,7 @@
                     <FileData Type="PlistSubImage" Path="rivers-2-3.png" Plist="Resource/atlas/B-other.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_19" ActionTag="106800507" Tag="374" IconVisible="False" LeftMargin="-18.7082" RightMargin="82.7081" TopMargin="1712.4756" BottomMargin="10.5244" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_19" ActionTag="106800507" Tag="374" IconVisible="False" LeftMargin="-18.7082" RightMargin="82.7082" TopMargin="1712.4756" BottomMargin="10.5244" ctype="SpriteObjectData">
                     <Size X="730.0000" Y="277.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="346.2918" Y="149.0244" />
@@ -176,7 +165,7 @@
                     <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_24_0_0_0" ActionTag="660404713" Tag="383" IconVisible="False" LeftMargin="670.8868" RightMargin="41.1132" TopMargin="1698.2466" BottomMargin="212.7534" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_24_0_0_0" ActionTag="660404713" Tag="383" IconVisible="False" LeftMargin="670.8875" RightMargin="41.1125" TopMargin="1698.2438" BottomMargin="212.7562" ctype="SpriteObjectData">
                     <Size X="82.0000" Y="89.0000" />
                     <AnchorPoint ScaleX="0.4451" ScaleY="0.5336" />
                     <Position X="707.3857" Y="260.2466" />
@@ -209,7 +198,7 @@
                     <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_24_0_0_0_0" ActionTag="-208036233" Tag="386" IconVisible="False" LeftMargin="758.8866" RightMargin="-46.8866" TopMargin="1859.5812" BottomMargin="51.4188" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_24_0_0_0_0" ActionTag="-208036233" Tag="386" IconVisible="False" LeftMargin="758.8873" RightMargin="-46.8873" TopMargin="1859.5782" BottomMargin="51.4217" ctype="SpriteObjectData">
                     <Size X="82.0000" Y="89.0000" />
                     <AnchorPoint ScaleX="0.4451" ScaleY="0.5336" />
                     <Position X="795.3855" Y="98.9121" />
@@ -220,7 +209,7 @@
                     <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_24_0_0_0_0_0" ActionTag="-193390011" Tag="387" IconVisible="False" LeftMargin="52.2209" RightMargin="659.7791" TopMargin="1894.2493" BottomMargin="16.7507" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_24_0_0_0_0_0" ActionTag="-193390011" Tag="387" IconVisible="False" LeftMargin="52.2216" RightMargin="659.7784" TopMargin="1894.2463" BottomMargin="16.7536" ctype="SpriteObjectData">
                     <Size X="82.0000" Y="89.0000" />
                     <AnchorPoint ScaleX="0.4451" ScaleY="0.5336" />
                     <Position X="88.7198" Y="64.2440" />
@@ -231,7 +220,7 @@
                     <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_25_0_0_0" ActionTag="2088612313" Tag="388" IconVisible="False" LeftMargin="708.5724" RightMargin="-16.5724" TopMargin="1119.0087" BottomMargin="770.9913" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_25_0_0_0" ActionTag="2088612313" Tag="388" IconVisible="False" LeftMargin="708.5724" RightMargin="-16.5724" TopMargin="1119.0088" BottomMargin="770.9913" ctype="SpriteObjectData">
                     <Size X="102.0000" Y="110.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="759.5724" Y="825.9913" />
@@ -274,19 +263,6 @@
                     <PreSize X="0.1285" Y="0.0550" />
                     <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
-                  </AbstractNodeData>
-                  <AbstractNodeData Name="Panel_26" Visible="False" ActionTag="-824829699" Tag="372" IconVisible="False" LeftMargin="-99.9958" RightMargin="693.9958" TopMargin="1800.0000" BottomMargin="0.0000" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
-                    <Size X="200.0000" Y="200.0000" />
-                    <AnchorPoint ScaleX="0.5000" />
-                    <Position X="0.0042" Y="0.0000" />
-                    <Scale ScaleX="4.0196" ScaleY="8.0281" />
-                    <CColor A="255" R="253" G="194" B="212" />
-                    <PrePosition X="0.0000" Y="0.0000" />
-                    <PreSize X="0.2519" Y="0.1000" />
-                    <SingleColor A="255" R="255" G="255" B="255" />
-                    <FirstColor A="255" R="150" G="200" B="255" />
-                    <EndColor A="255" R="255" G="255" B="255" />
-                    <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
                   <AbstractNodeData Name="Sprite_39_0" ActionTag="130433556" Tag="396" IconVisible="False" LeftMargin="325.1890" RightMargin="337.8110" TopMargin="435.9690" BottomMargin="1432.0310" ctype="SpriteObjectData">
                     <Size X="131.0000" Y="132.0000" />
@@ -349,6 +325,329 @@
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
                 <PrePosition />
+                <PreSize X="1.0000" Y="1.2500" />
+                <SingleColor A="255" R="150" G="200" B="255" />
+                <FirstColor A="255" R="150" G="200" B="255" />
+                <EndColor A="255" R="255" G="255" B="255" />
+                <ColorVector ScaleY="1.0000" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Panel_dot" ActionTag="-885072492" Tag="1455" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="10.0000" RightMargin="-10.0000" TopMargin="-390.0000" BottomMargin="-10.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                <Size X="794.0000" Y="2000.0000" />
+                <Children>
+                  <AbstractNodeData Name="dot_1" ActionTag="716054342" Tag="1458" IconVisible="False" LeftMargin="283.4193" RightMargin="493.5807" TopMargin="1944.7272" BottomMargin="38.2728" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="291.9193" Y="46.7728" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3677" Y="0.0234" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0" ActionTag="-550077373" Tag="1460" IconVisible="False" LeftMargin="150.6432" RightMargin="626.3568" TopMargin="1832.1992" BottomMargin="150.8008" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="159.1432" Y="159.3008" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2004" Y="0.0797" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_0" ActionTag="2034129470" Tag="1461" IconVisible="False" LeftMargin="181.9306" RightMargin="595.0694" TopMargin="1875.4270" BottomMargin="107.5730" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="190.4306" Y="116.0730" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2398" Y="0.0580" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_1" ActionTag="239225909" Tag="1462" IconVisible="False" LeftMargin="226.0614" RightMargin="550.9385" TopMargin="1915.9235" BottomMargin="67.0765" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="234.5614" Y="75.5765" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2954" Y="0.0378" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_2" ActionTag="-61075700" Tag="1463" IconVisible="False" LeftMargin="118.5903" RightMargin="658.4097" TopMargin="1686.4431" BottomMargin="296.5568" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="127.0903" Y="305.0568" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1601" Y="0.1525" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_3" ActionTag="-1416102710" Tag="1464" IconVisible="False" LeftMargin="171.0283" RightMargin="605.9717" TopMargin="1669.8301" BottomMargin="313.1699" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="179.5283" Y="321.6699" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2261" Y="0.1608" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_4" ActionTag="629004851" Tag="1465" IconVisible="False" LeftMargin="290.9595" RightMargin="486.0405" TopMargin="1673.4651" BottomMargin="309.5349" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="299.4595" Y="318.0349" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3772" Y="0.1590" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_5" ActionTag="1509695793" Tag="1466" IconVisible="False" LeftMargin="352.7434" RightMargin="424.2566" TopMargin="1663.6008" BottomMargin="319.3992" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="361.2434" Y="327.8992" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4550" Y="0.1639" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_6" ActionTag="-2004150148" Tag="1467" IconVisible="False" LeftMargin="232.2924" RightMargin="544.7076" TopMargin="1670.3496" BottomMargin="312.6503" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="240.7924" Y="321.1503" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3033" Y="0.1606" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_7" ActionTag="758631755" Tag="1468" IconVisible="False" LeftMargin="449.3116" RightMargin="327.6884" TopMargin="1326.1304" BottomMargin="656.8696" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="457.8116" Y="665.3696" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5766" Y="0.3327" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_8" ActionTag="1751950808" Tag="1469" IconVisible="False" LeftMargin="539.6489" RightMargin="237.3511" TopMargin="1216.0704" BottomMargin="766.9296" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="548.1489" Y="775.4296" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.6904" Y="0.3877" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_9" ActionTag="-1013180913" Tag="1470" IconVisible="False" LeftMargin="641.4094" RightMargin="135.5906" TopMargin="1164.1520" BottomMargin="818.8480" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="649.9094" Y="827.3480" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.8185" Y="0.4137" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_10" ActionTag="-1377074521" Tag="1471" IconVisible="False" LeftMargin="590.0089" RightMargin="186.9911" TopMargin="1188.5569" BottomMargin="794.4431" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="598.5089" Y="802.9431" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.7538" Y="0.4015" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_11" ActionTag="2100128699" Tag="1472" IconVisible="False" LeftMargin="583.2603" RightMargin="193.7397" TopMargin="1103.4075" BottomMargin="879.5925" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="591.7603" Y="888.0925" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.7453" Y="0.4440" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_12" ActionTag="1751306286" Tag="1473" IconVisible="False" LeftMargin="118.0687" RightMargin="658.9313" TopMargin="1249.3007" BottomMargin="733.6993" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="126.5687" Y="742.1993" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1594" Y="0.3711" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_13" ActionTag="-104703378" Tag="1474" IconVisible="False" LeftMargin="188.6786" RightMargin="588.3214" TopMargin="1238.3987" BottomMargin="744.6013" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="197.1786" Y="753.1013" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2483" Y="0.3766" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_14" ActionTag="-708619871" Tag="1475" IconVisible="False" LeftMargin="259.2878" RightMargin="517.7122" TopMargin="1220.7471" BottomMargin="762.2529" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="267.7878" Y="770.7529" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3373" Y="0.3854" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_15" ActionTag="1692773697" Tag="1476" IconVisible="False" LeftMargin="329.8970" RightMargin="447.1030" TopMargin="1200.4996" BottomMargin="782.5004" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="338.3970" Y="791.0004" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4262" Y="0.3955" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_16" ActionTag="1363384952" Tag="1477" IconVisible="False" LeftMargin="398.2298" RightMargin="378.7702" TopMargin="1178.4133" BottomMargin="804.5867" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="406.7298" Y="813.0867" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5123" Y="0.4065" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_17" ActionTag="86512192" Tag="1478" IconVisible="False" LeftMargin="464.9416" RightMargin="312.0584" TopMargin="1155.6545" BottomMargin="827.3455" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="473.4416" Y="835.8455" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5963" Y="0.4179" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_18" ActionTag="1333314629" Tag="1479" IconVisible="False" LeftMargin="526.4048" RightMargin="250.5952" TopMargin="1127.4771" BottomMargin="855.5230" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="534.9048" Y="864.0230" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.6737" Y="0.4320" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_19" ActionTag="-1924680092" Tag="1480" IconVisible="False" LeftMargin="133.1249" RightMargin="643.8751" TopMargin="1111.7256" BottomMargin="871.2744" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="141.6249" Y="879.7744" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1784" Y="0.4399" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_20" ActionTag="-669787338" Tag="1481" IconVisible="False" LeftMargin="236.4423" RightMargin="540.5577" TopMargin="1047.8730" BottomMargin="935.1270" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="244.9423" Y="943.6270" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3085" Y="0.4718" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_21" ActionTag="-939653971" Tag="1482" IconVisible="False" LeftMargin="188.1572" RightMargin="588.8428" TopMargin="1086.2964" BottomMargin="896.7036" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="196.6572" Y="905.2036" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2477" Y="0.4526" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_22" ActionTag="-413540616" Tag="1483" IconVisible="False" LeftMargin="464.3651" RightMargin="312.6349" TopMargin="1008.4216" BottomMargin="974.5784" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="472.8651" Y="983.0784" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5955" Y="0.4915" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_23" ActionTag="-734057010" Tag="1484" IconVisible="False" LeftMargin="401.5424" RightMargin="375.4576" TopMargin="1019.3287" BottomMargin="963.6713" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="410.0424" Y="972.1713" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5164" Y="0.4861" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_24" ActionTag="871837028" Tag="1485" IconVisible="False" LeftMargin="296.6665" RightMargin="480.3335" TopMargin="991.8125" BottomMargin="991.1875" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="305.1665" Y="999.6875" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3843" Y="0.4998" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="dot_1_0_25" ActionTag="-1751577118" Tag="1486" IconVisible="False" LeftMargin="343.3927" RightMargin="433.6073" TopMargin="1014.1420" BottomMargin="968.8580" ctype="SpriteObjectData">
+                    <Size X="17.0000" Y="17.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="351.8927" Y="977.3580" />
+                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4432" Y="0.4887" />
+                    <PreSize X="0.0214" Y="0.0085" />
+                    <FileData Type="PlistSubImage" Path="single-point-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                </Children>
+                <AnchorPoint />
+                <Position X="10.0000" Y="-10.0000" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.0126" Y="-0.0062" />
                 <PreSize X="1.0000" Y="1.2500" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
