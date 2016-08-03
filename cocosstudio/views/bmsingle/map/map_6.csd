@@ -12,13 +12,13 @@
               <AbstractNodeData Name="Panel_ground" ActionTag="940912896" Tag="342" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" TopMargin="-400.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
-                  <AbstractNodeData Name="Panel_26" ActionTag="-702524326" Tag="347" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="297.0000" RightMargin="297.0000" TopMargin="1799.9994" BottomMargin="0.0006" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="Panel_26" ActionTag="-702524326" Tag="347" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="295.3329" RightMargin="298.6671" TopMargin="1801.6646" BottomMargin="-1.6645" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <AnchorPoint ScaleX="0.5000" />
-                    <Position X="397.0000" Y="0.0006" />
-                    <Scale ScaleX="4.0196" ScaleY="8.0281" />
+                    <Position X="395.3329" Y="-1.6645" />
+                    <Scale ScaleX="4.0196" ScaleY="9.1081" />
                     <CColor A="255" R="253" G="194" B="212" />
-                    <PrePosition X="0.5000" Y="0.0000" />
+                    <PrePosition X="0.4979" Y="-0.0008" />
                     <PreSize X="0.2519" Y="0.1000" />
                     <SingleColor A="255" R="255" G="255" B="255" />
                     <FirstColor A="255" R="150" G="200" B="255" />
@@ -231,13 +231,13 @@
                     <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_24_0_1" ActionTag="1163987751" Tag="389" IconVisible="False" LeftMargin="702.3167" RightMargin="9.6833" TopMargin="898.0837" BottomMargin="1012.9163" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_24_0_1" ActionTag="1163987751" Tag="389" IconVisible="False" LeftMargin="702.3168" RightMargin="9.6832" TopMargin="901.4171" BottomMargin="1009.5829" ctype="SpriteObjectData">
                     <Size X="82.0000" Y="89.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="743.3167" Y="1057.4163" />
+                    <Position X="743.3168" Y="1054.0829" />
                     <Scale ScaleX="0.7236" ScaleY="0.7236" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.9362" Y="0.5287" />
+                    <PrePosition X="0.9362" Y="0.5270" />
                     <PreSize X="0.1033" Y="0.0445" />
                     <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
@@ -264,59 +264,224 @@
                     <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_39_0" ActionTag="130433556" Tag="396" IconVisible="False" LeftMargin="325.1890" RightMargin="337.8110" TopMargin="435.9690" BottomMargin="1432.0310" ctype="SpriteObjectData">
-                    <Size X="131.0000" Y="132.0000" />
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0" ActionTag="2017708615" Tag="60" IconVisible="False" LeftMargin="569.5516" RightMargin="122.4484" TopMargin="490.6755" BottomMargin="1399.3245" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="390.6890" Y="1498.0310" />
-                    <Scale ScaleX="0.8168" ScaleY="0.8168" />
+                    <Position X="620.5516" Y="1454.3245" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.4921" Y="0.7490" />
-                    <PreSize X="0.1650" Y="0.0660" />
-                    <FileData Type="PlistSubImage" Path="tree-1-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <PrePosition X="0.7816" Y="0.7272" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_40" ActionTag="1301254067" Tag="395" IconVisible="False" LeftMargin="696.6619" RightMargin="-94.6619" TopMargin="706.1484" BottomMargin="1100.8516" ctype="SpriteObjectData">
-                    <Size X="192.0000" Y="193.0000" />
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0" ActionTag="2096523693" Tag="61" IconVisible="False" LeftMargin="439.5496" RightMargin="252.4504" TopMargin="494.0076" BottomMargin="1395.9924" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="792.6619" Y="1197.3516" />
-                    <Scale ScaleX="0.7986" ScaleY="0.7986" />
+                    <Position X="490.5496" Y="1450.9924" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.9983" Y="0.5987" />
-                    <PreSize X="0.2418" Y="0.0965" />
-                    <FileData Type="PlistSubImage" Path="tree-1-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <PrePosition X="0.6178" Y="0.7255" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_39" ActionTag="-1240594124" Tag="394" IconVisible="False" LeftMargin="-65.4866" RightMargin="728.4866" TopMargin="497.9935" BottomMargin="1370.0065" ctype="SpriteObjectData">
-                    <Size X="131.0000" Y="132.0000" />
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0_0" ActionTag="-1215778343" Tag="62" IconVisible="False" LeftMargin="302.8846" RightMargin="389.1154" TopMargin="540.6736" BottomMargin="1349.3264" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="0.0134" Y="1436.0065" />
-                    <Scale ScaleX="0.9186" ScaleY="0.9186" />
+                    <Position X="353.8846" Y="1404.3264" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.0000" Y="0.7180" />
-                    <PreSize X="0.1650" Y="0.0660" />
-                    <FileData Type="PlistSubImage" Path="tree-1-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <PrePosition X="0.4457" Y="0.7022" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_38" ActionTag="2138284397" Tag="393" IconVisible="False" LeftMargin="443.1857" RightMargin="-8.1857" TopMargin="394.6489" BottomMargin="1325.3511" ctype="SpriteObjectData">
-                    <Size X="359.0000" Y="280.0000" />
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0_0_0" ActionTag="2017574122" Tag="63" IconVisible="False" LeftMargin="501.2070" RightMargin="190.7930" TopMargin="512.3501" BottomMargin="1377.6499" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="622.6857" Y="1465.3511" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Position X="552.2070" Y="1432.6499" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.7842" Y="0.7327" />
-                    <PreSize X="0.4521" Y="0.1400" />
-                    <FileData Type="PlistSubImage" Path="tree-5-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <PrePosition X="0.6955" Y="0.7163" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_37" ActionTag="1341659564" Tag="392" IconVisible="False" LeftMargin="-8.3187" RightMargin="420.3187" TopMargin="395.6487" BottomMargin="1482.3513" ctype="SpriteObjectData">
-                    <Size X="382.0000" Y="122.0000" />
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0_0_0_0" ActionTag="1676982683" Tag="64" IconVisible="False" LeftMargin="607.8666" RightMargin="84.1334" TopMargin="595.6848" BottomMargin="1294.3152" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="182.6813" Y="1543.3513" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Position X="658.8666" Y="1349.3152" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.2301" Y="0.7717" />
-                    <PreSize X="0.4811" Y="0.0610" />
-                    <FileData Type="PlistSubImage" Path="tree-4-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <PrePosition X="0.8298" Y="0.6747" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_1" ActionTag="700922079" Tag="65" IconVisible="False" LeftMargin="567.9578" RightMargin="144.0422" TopMargin="575.8889" BottomMargin="1335.1111" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.6184" ScaleY="0.4107" />
+                    <Position X="618.6638" Y="1371.6665" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.7792" Y="0.6858" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0_0_0_0_0" ActionTag="168524432" Tag="66" IconVisible="False" LeftMargin="677.8676" RightMargin="14.1324" TopMargin="622.3522" BottomMargin="1267.6478" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="728.8676" Y="1322.6478" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.9180" Y="0.6613" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0_0_0_0_0_0" ActionTag="-2006170577" Tag="67" IconVisible="False" LeftMargin="706.1964" RightMargin="-14.1964" TopMargin="735.6892" BottomMargin="1154.3108" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="757.1964" Y="1209.3108" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.9536" Y="0.6047" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_1_0" ActionTag="2140405689" Tag="68" IconVisible="False" LeftMargin="682.3060" RightMargin="29.6940" TopMargin="686.4178" BottomMargin="1224.5822" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="723.3060" Y="1269.0822" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.9110" Y="0.6345" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_1_1" ActionTag="408577714" Tag="69" IconVisible="False" LeftMargin="394.6244" RightMargin="317.3756" TopMargin="537.5552" BottomMargin="1373.4448" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.6184" ScaleY="0.4107" />
+                    <Position X="445.3304" Y="1410.0002" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5609" Y="0.7050" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_1_1_0" ActionTag="-906643809" Tag="70" IconVisible="False" LeftMargin="512.9547" RightMargin="199.0453" TopMargin="924.2227" BottomMargin="986.7774" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.6184" ScaleY="0.4107" />
+                    <Position X="563.6608" Y="1023.3328" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.7099" Y="0.5117" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_0_0_0_1" ActionTag="-1290806393" Tag="71" IconVisible="False" LeftMargin="626.2148" RightMargin="65.7852" TopMargin="847.3428" BottomMargin="1042.6572" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="677.2148" Y="1097.6572" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.8529" Y="0.5488" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_1_0_0" ActionTag="1073980559" Tag="72" IconVisible="False" LeftMargin="695.6364" RightMargin="16.3636" TopMargin="814.7515" BottomMargin="1096.2485" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="736.6364" Y="1140.7485" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.9278" Y="0.5704" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_2" ActionTag="963232352" Tag="73" IconVisible="False" LeftMargin="400.6465" RightMargin="311.3535" TopMargin="944.7515" BottomMargin="966.2486" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="441.6465" Y="1010.7486" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.5562" Y="0.5054" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_2_0" ActionTag="1739069561" Tag="74" IconVisible="False" LeftMargin="260.6401" RightMargin="451.3599" TopMargin="513.0875" BottomMargin="1397.9125" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="301.6401" Y="1442.4125" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.3799" Y="0.7212" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_2_0_0" ActionTag="1913495336" Tag="75" IconVisible="False" LeftMargin="457.3022" RightMargin="254.6978" TopMargin="398.0902" BottomMargin="1512.9098" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="498.3022" Y="1557.4098" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.6276" Y="0.7787" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_24_0_1_2_0_0_0" ActionTag="1259752383" Tag="76" IconVisible="False" LeftMargin="107.2993" RightMargin="604.7007" TopMargin="374.7582" BottomMargin="1536.2418" ctype="SpriteObjectData">
+                    <Size X="82.0000" Y="89.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="148.2993" Y="1580.7418" />
+                    <Scale ScaleX="0.7236" ScaleY="0.7236" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.1868" Y="0.7904" />
+                    <PreSize X="0.1033" Y="0.0445" />
+                    <FileData Type="PlistSubImage" Path="flower-2-1.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_1" ActionTag="1186170665" Tag="77" IconVisible="False" LeftMargin="123.2224" RightMargin="568.7776" TopMargin="419.3364" BottomMargin="1470.6636" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="174.2224" Y="1525.6636" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.2194" Y="0.7628" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_2" ActionTag="-1201256826" Tag="78" IconVisible="False" LeftMargin="286.2107" RightMargin="405.7893" TopMargin="435.6787" BottomMargin="1454.3213" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="337.2107" Y="1509.3213" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="0.4247" Y="0.7547" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
+                    <BlendFunc Src="1" Dst="771" />
+                  </AbstractNodeData>
+                  <AbstractNodeData Name="Sprite_25_0_0_0_0_2_0" ActionTag="2111975583" Tag="79" IconVisible="False" LeftMargin="744.5289" RightMargin="-52.5289" TopMargin="515.6860" BottomMargin="1374.3140" ctype="SpriteObjectData">
+                    <Size X="102.0000" Y="110.0000" />
+                    <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                    <Position X="795.5289" Y="1429.3140" />
+                    <Scale ScaleX="0.7957" ScaleY="0.7957" />
+                    <CColor A="255" R="255" G="255" B="255" />
+                    <PrePosition X="1.0019" Y="0.7147" />
+                    <PreSize X="0.1285" Y="0.0550" />
+                    <FileData Type="PlistSubImage" Path="flower-2-2.png" Plist="Resource/atlas/B-single.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
                 </Children>
@@ -331,7 +496,7 @@
                 <EndColor A="255" R="255" G="255" B="255" />
                 <ColorVector ScaleY="1.0000" />
               </AbstractNodeData>
-              <AbstractNodeData Name="Panel_dot" ActionTag="-885072492" Tag="1455" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="10.0044" RightMargin="-10.0044" TopMargin="-390.0800" BottomMargin="-9.9200" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+              <AbstractNodeData Name="Panel_dot" Visible="False" ActionTag="-885072492" Tag="1455" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.6666" RightMargin="-1.6666" TopMargin="-398.3335" BottomMargin="-1.6666" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="794.0000" Y="2000.0000" />
                 <Children>
                   <AbstractNodeData Name="dot_1" ActionTag="716054342" Tag="1458" IconVisible="False" LeftMargin="283.4193" RightMargin="493.5807" TopMargin="1944.7272" BottomMargin="38.2728" ctype="SpriteObjectData">
@@ -644,10 +809,10 @@
                   </AbstractNodeData>
                 </Children>
                 <AnchorPoint />
-                <Position X="10.0044" Y="-9.9200" />
+                <Position X="1.6666" Y="-1.6666" />
                 <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.0126" Y="-0.0062" />
+                <PrePosition X="0.0021" Y="-0.0010" />
                 <PreSize X="1.0000" Y="1.2500" />
                 <SingleColor A="255" R="150" G="200" B="255" />
                 <FirstColor A="255" R="150" G="200" B="255" />
