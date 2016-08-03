@@ -7,8 +7,6 @@
           <Folder Name="atlas">
             <PlistImageFolder Image="B-common.png" PListFile="B-common.plist" Name=".B-common_PList.Dir">
               <PlistImageFile Name="all-light.png" Key="all-light.png" />
-              <PlistImageFile Name="animal-1.png" Key="animal-1.png" />
-              <PlistImageFile Name="animal-2.png" Key="animal-2.png" />
               <PlistImageFile Name="animal-bottom.png" Key="animal-bottom.png" />
               <PlistImageFile Name="animal-circle-bm.png" Key="animal-circle-bm.png" />
               <PlistImageFile Name="animal-circle-nomal.png" Key="animal-circle-nomal.png" />
@@ -37,9 +35,12 @@
               <PlistImageFile Name="btn-07-3.png" Key="btn-07-3.png" />
               <PlistImageFile Name="btn-08.png" Key="btn-08.png" />
               <PlistImageFile Name="btn-09.png" Key="btn-09.png" />
-              <PlistImageFile Name="btn-10.png" Key="btn-10.png" />
+              <PlistImageFile Name="btn-10-1.png" Key="btn-10-1.png" />
+              <PlistImageFile Name="btn-10-2.png" Key="btn-10-2.png" />
               <PlistImageFile Name="btn-11.png" Key="btn-11.png" />
               <PlistImageFile Name="btn-12.png" Key="btn-12.png" />
+              <PlistImageFile Name="btn-13-1.png" Key="btn-13-1.png" />
+              <PlistImageFile Name="btn-13-2.png" Key="btn-13-2.png" />
               <PlistImageFile Name="btn-add.png" Key="btn-add.png" />
               <PlistImageFile Name="btn-back.png" Key="btn-back.png" />
               <PlistImageFile Name="btn-close.png" Key="btn-close.png" />
@@ -48,7 +49,13 @@
               <PlistImageFile Name="btn-turn.png" Key="btn-turn.png" />
               <PlistImageFile Name="cost-gold.png" Key="cost-gold.png" />
               <PlistImageFile Name="dialog-100-732x400.png" Key="dialog-100-732x400.png" />
+              <PlistImageFile Name="dialog-10-1.png" Key="dialog-10-1.png" />
+              <PlistImageFile Name="dialog-10-2.png" Key="dialog-10-2.png" />
+              <PlistImageFile Name="dialog-10-3.png" Key="dialog-10-3.png" />
               <PlistImageFile Name="dialog-1-1.png" Key="dialog-1-1.png" />
+              <PlistImageFile Name="dialog-11-1.png" Key="dialog-11-1.png" />
+              <PlistImageFile Name="dialog-11-2.png" Key="dialog-11-2.png" />
+              <PlistImageFile Name="dialog-11-3.png" Key="dialog-11-3.png" />
               <PlistImageFile Name="dialog-1-2.png" Key="dialog-1-2.png" />
               <PlistImageFile Name="dialog-1-3.png" Key="dialog-1-3.png" />
               <PlistImageFile Name="dialog-2.png" Key="dialog-2.png" />
@@ -57,9 +64,18 @@
               <PlistImageFile Name="dialog-5-1.png" Key="dialog-5-1.png" />
               <PlistImageFile Name="dialog-5-2.png" Key="dialog-5-2.png" />
               <PlistImageFile Name="dialog-6-1.png" Key="dialog-6-1.png" />
+              <PlistImageFile Name="dialog-7-1.png" Key="dialog-7-1.png" />
+              <PlistImageFile Name="dialog-7-2.png" Key="dialog-7-2.png" />
+              <PlistImageFile Name="dialog-7-3.png" Key="dialog-7-3.png" />
+              <PlistImageFile Name="dialog-8-1.png" Key="dialog-8-1.png" />
+              <PlistImageFile Name="dialog-8-2.png" Key="dialog-8-2.png" />
+              <PlistImageFile Name="dialog-8-3.png" Key="dialog-8-3.png" />
               <PlistImageFile Name="gaming-bm-friend.png" Key="gaming-bm-friend.png" />
               <PlistImageFile Name="gaming-bm-right.png" Key="gaming-bm-right.png" />
               <PlistImageFile Name="gaming-pause.png" Key="gaming-pause.png" />
+              <PlistImageFile Name="gem-one.png" Key="gem-one.png" />
+              <PlistImageFile Name="gem-two.png" Key="gem-two.png" />
+              <PlistImageFile Name="gold-two.png" Key="gold-two.png" />
               <PlistImageFile Name="grass-change.png" Key="grass-change.png" />
               <PlistImageFile Name="head-circle-in.png" Key="head-circle-in.png" />
               <PlistImageFile Name="head-circle-little.png" Key="head-circle-little.png" />
@@ -83,8 +99,12 @@
               <PlistImageFile Name="progress-1-out.png" Key="progress-1-out.png" />
               <PlistImageFile Name="rank-circle-1.png" Key="rank-circle-1.png" />
               <PlistImageFile Name="rank-circle-2.png" Key="rank-circle-2.png" />
+              <PlistImageFile Name="rank-down.png" Key="rank-down.png" />
+              <PlistImageFile Name="rank-up.png" Key="rank-up.png" />
               <PlistImageFile Name="star-pink.png" Key="star-pink.png" />
               <PlistImageFile Name="star-yellow.png" Key="star-yellow.png" />
+              <PlistImageFile Name="tile-big.png" Key="tile-big.png" />
+              <PlistImageFile Name="tile-little.png" Key="tile-little.png" />
               <PlistImageFile Name="title-pink.png" Key="title-pink.png" />
               <PlistImageFile Name="title-top-white.png" Key="title-top-white.png" />
               <PlistImageFile Name="title-yelow.png" Key="title-yelow.png" />
@@ -97,8 +117,9 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
-              <PlistImageFile Name="btn-13-1.png" Key="btn-13-1.png" />
-              <PlistImageFile Name="btn-13-2.png" Key="btn-13-2.png" />
+              <PlistImageFile Name="wall-1-bm.png" Key="wall-1-bm.png" />
+              <PlistImageFile Name="wall-1-mid.png" Key="wall-1-mid.png" />
+              <PlistImageFile Name="wall-1-top.png" Key="wall-1-top.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />

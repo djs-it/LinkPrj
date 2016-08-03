@@ -389,6 +389,50 @@
             <EndColor A="255" R="255" G="255" B="255" />
             <ColorVector ScaleY="1.0000" />
           </AbstractNodeData>
+          <AbstractNodeData Name="Sprite_4" ActionTag="1947302330" Tag="38" IconVisible="False" LeftMargin="-858.0000" RightMargin="760.0000" TopMargin="-230.5000" BottomMargin="-4.5000" ctype="SpriteObjectData">
+            <Size X="98.0000" Y="235.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-809.0000" Y="113.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="PlistSubImage" Path="wall-1-bm.png" Plist="Resource/atlas/B-common.plist" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Sprite_5" ActionTag="-946178943" Tag="39" IconVisible="False" LeftMargin="-861.0000" RightMargin="763.0000" TopMargin="-665.0000" BottomMargin="447.0000" ctype="SpriteObjectData">
+            <Size X="98.0000" Y="218.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-812.0000" Y="556.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="PlistSubImage" Path="wall-1-mid.png" Plist="Resource/atlas/B-common.plist" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Sprite_6" ActionTag="178800234" Tag="40" IconVisible="False" LeftMargin="-854.0000" RightMargin="778.0000" TopMargin="-691.5000" BottomMargin="664.5000" ctype="SpriteObjectData">
+            <Size X="76.0000" Y="27.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-816.0000" Y="678.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="PlistSubImage" Path="wall-1-top.png" Plist="Resource/atlas/B-common.plist" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
+          <AbstractNodeData Name="Sprite_5_0" ActionTag="137311369" Tag="41" IconVisible="False" LeftMargin="-860.0000" RightMargin="762.0000" TopMargin="-448.0000" BottomMargin="230.0000" ctype="SpriteObjectData">
+            <Size X="98.0000" Y="218.0000" />
+            <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+            <Position X="-811.0000" Y="339.0000" />
+            <Scale ScaleX="1.0000" ScaleY="1.0000" />
+            <CColor A="255" R="255" G="255" B="255" />
+            <PrePosition />
+            <PreSize X="0.0000" Y="0.0000" />
+            <FileData Type="PlistSubImage" Path="wall-1-mid.png" Plist="Resource/atlas/B-common.plist" />
+            <BlendFunc Src="1" Dst="771" />
+          </AbstractNodeData>
         </Children>
       </ObjectData>
     </Content>
