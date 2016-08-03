@@ -15,33 +15,33 @@
                   <AbstractNodeData Name="Panel_btn" ActionTag="-407151373" Tag="116" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <Children>
-                      <AbstractNodeData Name="btnLevelNo" ActionTag="1794579821" CallBackType="Click" CallBackName="btnLevelNo" UserData="sb" Tag="117" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-7.0000" RightMargin="-7.0000" TopMargin="48.5000" BottomMargin="48.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="184" Scale9Height="81" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                        <Size X="214.0000" Y="103.0000" />
+                      <AbstractNodeData Name="btnLevelNo" ActionTag="1794579821" CallBackType="Click" CallBackName="btnLevelNo" UserData="sb" Tag="117" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="59.0000" BottomMargin="59.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="113" Scale9Height="60" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="143.0000" Y="82.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="100.0000" Y="100.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5000" Y="0.5000" />
-                        <PreSize X="1.0700" Y="0.5150" />
+                        <PreSize X="0.7150" Y="0.4100" />
                         <TextColor A="255" R="65" G="65" B="70" />
                         <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                        <PressedFileData Type="PlistSubImage" Path="btn-07-1.png" Plist="Resource/atlas/B-common.plist" />
-                        <NormalFileData Type="PlistSubImage" Path="btn-07-1.png" Plist="Resource/atlas/B-common.plist" />
+                        <PressedFileData Type="PlistSubImage" Path="btn-13-2.png" Plist="Resource/atlas/B-common.plist" />
+                        <NormalFileData Type="PlistSubImage" Path="btn-13-2.png" Plist="Resource/atlas/B-common.plist" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="btnLevel" ActionTag="1340615017" CallBackType="Click" CallBackName="btnLevel" UserData="sb" Tag="118" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-7.0000" RightMargin="-7.0000" TopMargin="48.5000" BottomMargin="48.5000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="184" Scale9Height="81" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                        <Size X="214.0000" Y="103.0000" />
+                      <AbstractNodeData Name="btnLevel" ActionTag="1340615017" CallBackType="Click" CallBackName="btnLevel" UserData="sb" Tag="118" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="28.5000" RightMargin="28.5000" TopMargin="59.0000" BottomMargin="59.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="113" Scale9Height="60" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                        <Size X="143.0000" Y="82.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="100.0000" Y="100.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5000" Y="0.5000" />
-                        <PreSize X="1.0700" Y="0.5150" />
+                        <PreSize X="0.7150" Y="0.4100" />
                         <TextColor A="255" R="65" G="65" B="70" />
                         <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                        <PressedFileData Type="PlistSubImage" Path="btn-07-2.png" Plist="Resource/atlas/B-common.plist" />
-                        <NormalFileData Type="PlistSubImage" Path="btn-07-2.png" Plist="Resource/atlas/B-common.plist" />
+                        <PressedFileData Type="PlistSubImage" Path="btn-13-1.png" Plist="Resource/atlas/B-common.plist" />
+                        <NormalFileData Type="PlistSubImage" Path="btn-13-1.png" Plist="Resource/atlas/B-common.plist" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
