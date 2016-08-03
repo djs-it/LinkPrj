@@ -32,8 +32,10 @@
       <Value ctype="TabsInfo">
         <OpenedDocuments>
           <FilePathData Path="views/bmsingle/map_game.csd" />
+          <FilePathData Path="views/bmsingle/map/map_6.csd" />
+          <FilePathData Path="views/common/boss_bn.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="views/bmsingle/map_game.csd" />
+        <ActiveDocument Path="views/common/boss_bn.csd" />
       </Value>
     </Item>
   </Properties>
