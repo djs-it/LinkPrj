@@ -45,14 +45,14 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="levelNUM" ActionTag="-1226163957" Tag="119" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="92.0000" RightMargin="92.0000" TopMargin="72.8400" BottomMargin="79.1600" FontSize="40" LabelText="1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
-                        <Size X="16.0000" Y="48.0000" />
+                      <AbstractNodeData Name="levelNUM" ActionTag="-1226163957" Tag="119" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="71.0000" RightMargin="71.0000" TopMargin="66.8400" BottomMargin="73.1600" FontSize="50" LabelText="45" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                        <Size X="58.0000" Y="60.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="100.0000" Y="103.1600" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                        <CColor A="255" R="103" G="65" B="78" />
+                        <CColor A="255" R="255" G="255" B="255" />
                         <PrePosition X="0.5000" Y="0.5158" />
-                        <PreSize X="0.0800" Y="0.2400" />
+                        <PreSize X="0.2900" Y="0.3000" />
                         <FontResource Type="Normal" Path="Resource/font/FZY4K.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
@@ -72,35 +72,35 @@
                   <AbstractNodeData Name="Panel_star" ActionTag="853066464" Tag="120" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <Children>
-                      <AbstractNodeData Name="star_12" ActionTag="-785610784" Tag="121" RotationSkewX="-35.0000" RotationSkewY="-35.0000" IconVisible="False" LeftMargin="47.0000" RightMargin="121.0000" TopMargin="31.5000" BottomMargin="135.5000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="star_12" ActionTag="-785610784" Tag="121" RotationSkewX="-35.0000" RotationSkewY="-35.0000" IconVisible="False" LeftMargin="4.0000" RightMargin="164.0000" TopMargin="12.5000" BottomMargin="154.5000" ctype="SpriteObjectData">
                         <Size X="32.0000" Y="33.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="63.0000" Y="152.0000" />
+                        <Position X="20.0000" Y="171.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.3150" Y="0.7600" />
+                        <PrePosition X="0.1000" Y="0.8550" />
                         <PreSize X="0.1600" Y="0.1650" />
                         <FileData Type="PlistSubImage" Path="single-star-1.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="star_22" ActionTag="-439470536" Tag="122" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="84.5200" RightMargin="83.4800" TopMargin="20.3600" BottomMargin="146.6400" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="star_22" ActionTag="-439470536" Tag="122" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="84.0000" RightMargin="84.0000" TopMargin="2.5000" BottomMargin="164.5000" ctype="SpriteObjectData">
                         <Size X="32.0000" Y="33.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="100.5200" Y="163.1400" />
+                        <Position X="100.0000" Y="181.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.5026" Y="0.8157" />
+                        <PrePosition X="0.5000" Y="0.9050" />
                         <PreSize X="0.1600" Y="0.1650" />
                         <FileData Type="PlistSubImage" Path="single-star-1.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="star_32" ActionTag="268948159" Tag="123" RotationSkewX="35.0000" RotationSkewY="35.0000" IconVisible="False" LeftMargin="121.0000" RightMargin="47.0000" TopMargin="31.5000" BottomMargin="135.5000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="star_32" ActionTag="268948159" Tag="123" RotationSkewX="35.0000" RotationSkewY="35.0000" IconVisible="False" LeftMargin="164.0000" RightMargin="4.0000" TopMargin="12.5000" BottomMargin="154.5000" ctype="SpriteObjectData">
                         <Size X="32.0000" Y="33.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="137.0000" Y="152.0000" />
+                        <Position X="180.0000" Y="171.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.6850" Y="0.7600" />
+                        <PrePosition X="0.9000" Y="0.8550" />
                         <PreSize X="0.1600" Y="0.1650" />
                         <FileData Type="PlistSubImage" Path="single-star-1.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
@@ -120,35 +120,35 @@
                   <AbstractNodeData Name="Panel_star_0" ActionTag="-1844988132" Tag="124" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <Children>
-                      <AbstractNodeData Name="star_1" ActionTag="2014188519" Tag="125" RotationSkewX="-35.0000" RotationSkewY="-35.0000" IconVisible="False" LeftMargin="47.0000" RightMargin="121.0000" TopMargin="31.5000" BottomMargin="135.5000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="star_1" ActionTag="2014188519" Tag="125" RotationSkewX="-35.0000" RotationSkewY="-35.0000" IconVisible="False" LeftMargin="3.9996" RightMargin="164.0004" TopMargin="12.5000" BottomMargin="154.5000" ctype="SpriteObjectData">
                         <Size X="32.0000" Y="33.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="63.0000" Y="152.0000" />
+                        <Position X="19.9996" Y="171.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.3150" Y="0.7600" />
+                        <PrePosition X="0.1000" Y="0.8550" />
                         <PreSize X="0.1600" Y="0.1650" />
                         <FileData Type="PlistSubImage" Path="single-star-2.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="star_2" ActionTag="271810536" Tag="126" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="84.5200" RightMargin="83.4800" TopMargin="20.3600" BottomMargin="146.6400" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="star_2" ActionTag="271810536" Tag="126" IconVisible="False" PositionPercentXEnabled="True" LeftMargin="84.0000" RightMargin="84.0000" TopMargin="2.5000" BottomMargin="164.5000" ctype="SpriteObjectData">
                         <Size X="32.0000" Y="33.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="100.5200" Y="163.1400" />
+                        <Position X="100.0000" Y="181.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.5026" Y="0.8157" />
+                        <PrePosition X="0.5000" Y="0.9050" />
                         <PreSize X="0.1600" Y="0.1650" />
                         <FileData Type="PlistSubImage" Path="single-star-2.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="star_3" ActionTag="1319362193" Tag="127" RotationSkewX="35.0000" RotationSkewY="35.0000" IconVisible="False" LeftMargin="121.0000" RightMargin="47.0000" TopMargin="31.5000" BottomMargin="135.5000" ctype="SpriteObjectData">
+                      <AbstractNodeData Name="star_3" ActionTag="1319362193" Tag="127" RotationSkewX="35.0000" RotationSkewY="35.0000" IconVisible="False" LeftMargin="164.0000" RightMargin="4.0000" TopMargin="12.5000" BottomMargin="154.5000" ctype="SpriteObjectData">
                         <Size X="32.0000" Y="33.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="137.0000" Y="152.0000" />
+                        <Position X="180.0000" Y="171.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="255" G="255" B="255" />
-                        <PrePosition X="0.6850" Y="0.7600" />
+                        <PrePosition X="0.9000" Y="0.8550" />
                         <PreSize X="0.1600" Y="0.1650" />
                         <FileData Type="PlistSubImage" Path="single-star-2.png" Plist="Resource/atlas/B-special.plist" />
                         <BlendFunc Src="1" Dst="771" />
