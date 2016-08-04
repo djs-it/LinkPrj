@@ -115,14 +115,14 @@
               <PlistImageFile Name="wall-1-bm.png" Key="wall-1-bm.png" />
               <PlistImageFile Name="wall-1-mid.png" Key="wall-1-mid.png" />
               <PlistImageFile Name="wall-1-top.png" Key="wall-1-top.png" />
+              <PlistImageFile Name="wall-2-left.png" Key="wall-2-left.png" />
+              <PlistImageFile Name="wall-2-mid.png" Key="wall-2-mid.png" />
+              <PlistImageFile Name="wall-2-right.png" Key="wall-2-right.png" />
               <PlistImageFile Name="word-board-20.png" Key="word-board-20.png" />
               <PlistImageFile Name="word-board-30.png" Key="word-board-30.png" />
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
-              <PlistImageFile Name="wall-2-left.png" Key="wall-2-left.png" />
-              <PlistImageFile Name="wall-2-mid.png" Key="wall-2-mid.png" />
-              <PlistImageFile Name="wall-2-right.png" Key="wall-2-right.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />

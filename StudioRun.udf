@@ -28,5 +28,15 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="views/gaming/gaming_wall.csd" />
+          <FilePathData Path="views/gaming/wall_horizontal.csd" />
+          <FilePathData Path="views/gaming/wall_vertical.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="views/gaming/wall_horizontal.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>
