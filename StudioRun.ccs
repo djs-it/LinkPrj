@@ -13,6 +13,7 @@
               <PlistImageFile Name="animal-circle-select.png" Key="animal-circle-select.png" />
               <PlistImageFile Name="board-1.png" Key="board-1.png" />
               <PlistImageFile Name="board-2.png" Key="board-2.png" />
+              <PlistImageFile Name="boss-bed.png" Key="boss-bed.png" />
               <PlistImageFile Name="box-pink-1.png" Key="box-pink-1.png" />
               <PlistImageFile Name="box-pink-2.png" Key="box-pink-2.png" />
               <PlistImageFile Name="box-yellow-1.png" Key="box-yellow-1.png" />
@@ -231,6 +232,8 @@
               <PlistImageFile Name="anm-7.png" Key="anm-7.png" />
               <PlistImageFile Name="anm-8.png" Key="anm-8.png" />
               <PlistImageFile Name="anm-9.png" Key="anm-9.png" />
+              <PlistImageFile Name="boss-cloud.png" Key="boss-cloud.png" />
+              <PlistImageFile Name="boss-egg.png" Key="boss-egg.png" />
               <PlistImageFile Name="cloud-bm.png" Key="cloud-bm.png" />
               <PlistImageFile Name="cloud-top.png" Key="cloud-top.png" />
               <PlistImageFile Name="sp-0.png" Key="sp-0.png" />
@@ -314,8 +317,8 @@
               <PlistImageFile Name="sp-80.png" Key="sp-80.png" />
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
-              <PlistImageFile Name="boss-cloud.png" Key="boss-cloud.png" />
-              <PlistImageFile Name="boss-egg.png" Key="boss-egg.png" />
+              <PlistImageFile Name="star.png" Key="star.png" />
+              <PlistImageFile Name="stars.png" Key="stars.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>
