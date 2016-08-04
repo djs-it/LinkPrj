@@ -314,7 +314,8 @@
               <PlistImageFile Name="sp-80.png" Key="sp-80.png" />
               <PlistImageFile Name="sp-9.png" Key="sp-9.png" />
               <PlistImageFile Name="sp-select.png" Key="sp-select.png" />
-              <PlistImageFile Name="wall.png" Key="wall.png" />
+              <PlistImageFile Name="boss-cloud.png" Key="boss-cloud.png" />
+              <PlistImageFile Name="boss-egg.png" Key="boss-egg.png" />
             </PlistImageFolder>
             <Image Name="Link.png" />
           </Folder>
