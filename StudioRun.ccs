@@ -48,6 +48,12 @@
               <PlistImageFile Name="btn-gem.png" Key="btn-gem.png" />
               <PlistImageFile Name="btn-gold.png" Key="btn-gold.png" />
               <PlistImageFile Name="btn-turn.png" Key="btn-turn.png" />
+              <PlistImageFile Name="buy-1-off.png" Key="buy-1-off.png" />
+              <PlistImageFile Name="buy-1-on.png" Key="buy-1-on.png" />
+              <PlistImageFile Name="buy-2-off.png" Key="buy-2-off.png" />
+              <PlistImageFile Name="buy-2-on.png" Key="buy-2-on.png" />
+              <PlistImageFile Name="buy-3-off.png" Key="buy-3-off.png" />
+              <PlistImageFile Name="buy-3-on.png" Key="buy-3-on.png" />
               <PlistImageFile Name="cost-gold.png" Key="cost-gold.png" />
               <PlistImageFile Name="dialog-100-732x400.png" Key="dialog-100-732x400.png" />
               <PlistImageFile Name="dialog-10-1.png" Key="dialog-10-1.png" />
@@ -98,6 +104,10 @@
               <PlistImageFile Name="main-top-line.png" Key="main-top-line.png" />
               <PlistImageFile Name="progress-1-in.png" Key="progress-1-in.png" />
               <PlistImageFile Name="progress-1-out.png" Key="progress-1-out.png" />
+              <PlistImageFile Name="rank-1-off.png" Key="rank-1-off.png" />
+              <PlistImageFile Name="rank-1-on.png" Key="rank-1-on.png" />
+              <PlistImageFile Name="rank-2-off.png" Key="rank-2-off.png" />
+              <PlistImageFile Name="rank-2-on.png" Key="rank-2-on.png" />
               <PlistImageFile Name="rank-circle-1.png" Key="rank-circle-1.png" />
               <PlistImageFile Name="rank-circle-2.png" Key="rank-circle-2.png" />
               <PlistImageFile Name="rank-down.png" Key="rank-down.png" />
@@ -124,6 +134,8 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
+              <PlistImageFile Name="tile-member-1.png" Key="tile-member-1.png" />
+              <PlistImageFile Name="tile-member-2.png" Key="tile-member-2.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
@@ -380,6 +392,11 @@
             <Project Name="wall_horizontal.csd" Type="Node" />
             <Project Name="wall_vertical.csd" Type="Node" />
           </Folder>
+          <Folder Name="mainactivity" />
+          <Folder Name="mainbuy">
+            <Project Name="buy.csd" Type="Node" />
+          </Folder>
+          <Folder Name="mainfriend" />
           <Folder Name="mainroom">
             <Project Name="main_bm_btn.csd" Type="Node" />
             <Project Name="main_bottom.csd" Type="Node" />
