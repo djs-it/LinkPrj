@@ -357,7 +357,9 @@
             <Project Name="animal_cell.csd" Type="Node" />
             <Project Name="animal_main.csd" Type="Node" />
           </Folder>
-          <Folder Name="bmpk" />
+          <Folder Name="bmpk">
+            <Project Name="pk_main.csd" Type="Node" />
+          </Folder>
           <Folder Name="bmroom">
             <Project Name="room_main.csd" Type="Node" />
           </Folder>
