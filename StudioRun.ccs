@@ -136,6 +136,9 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
+              <PlistImageFile Name="light-small.png" Key="light-small.png" />
+              <PlistImageFile Name="main-top-email.png" Key="main-top-email.png" />
+              <PlistImageFile Name="remind.png" Key="remind.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
@@ -388,7 +391,6 @@
             <Project Name="gaming_level_over.csd" Type="Node" />
             <Project Name="gaming_pause.csd" Type="Node" />
             <Project Name="gaming_top.csd" Type="Node" />
-            <Project Name="gaming_wall.csd" Type="Node" />
             <Project Name="wall_horizontal.csd" Type="Node" />
             <Project Name="wall_vertical.csd" Type="Node" />
           </Folder>
