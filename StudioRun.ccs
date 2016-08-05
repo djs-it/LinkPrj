@@ -116,6 +116,8 @@
               <PlistImageFile Name="star-yellow.png" Key="star-yellow.png" />
               <PlistImageFile Name="tile-big.png" Key="tile-big.png" />
               <PlistImageFile Name="tile-little.png" Key="tile-little.png" />
+              <PlistImageFile Name="tile-member-1.png" Key="tile-member-1.png" />
+              <PlistImageFile Name="tile-member-2.png" Key="tile-member-2.png" />
               <PlistImageFile Name="title-pink.png" Key="title-pink.png" />
               <PlistImageFile Name="title-top-white.png" Key="title-top-white.png" />
               <PlistImageFile Name="title-yelow.png" Key="title-yelow.png" />
@@ -134,8 +136,6 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
-              <PlistImageFile Name="tile-member-1.png" Key="tile-member-1.png" />
-              <PlistImageFile Name="tile-member-2.png" Key="tile-member-2.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
@@ -392,7 +392,9 @@
             <Project Name="wall_horizontal.csd" Type="Node" />
             <Project Name="wall_vertical.csd" Type="Node" />
           </Folder>
-          <Folder Name="mainactivity" />
+          <Folder Name="mainactivity">
+            <Project Name="activity.csd" Type="Node" />
+          </Folder>
           <Folder Name="mainbuy">
             <Project Name="buy.csd" Type="Node" />
           </Folder>
