@@ -28,5 +28,17 @@
         <EnableHTML5Advanced Value="False" />
       </Value>
     </Item>
+    <Item Key="TabsParamsKey">
+      <Value ctype="TabsInfo">
+        <OpenedDocuments>
+          <FilePathData Path="views/bmsingle/single_map.csd" />
+          <FilePathData Path="views/bmroom/room_main.csd" />
+          <FilePathData Path="views/bmanimal/animal_main.csd" />
+          <FilePathData Path="views/bmpk/pk_main.csd" />
+          <FilePathData Path="views/mainroom/main_room.csd" />
+        </OpenedDocuments>
+        <ActiveDocument Path="views/mainroom/main_room.csd" />
+      </Value>
+    </Item>
   </Properties>
 </UserData>

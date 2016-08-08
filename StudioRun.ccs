@@ -104,6 +104,12 @@
               <PlistImageFile Name="main-top-gold.png" Key="main-top-gold.png" />
               <PlistImageFile Name="main-top-head.png" Key="main-top-head.png" />
               <PlistImageFile Name="main-top-line.png" Key="main-top-line.png" />
+              <PlistImageFile Name="pk-476x174.png" Key="pk-476x174.png" />
+              <PlistImageFile Name="pk-476x194.png" Key="pk-476x194.png" />
+              <PlistImageFile Name="pk-food.png" Key="pk-food.png" />
+              <PlistImageFile Name="pk-rank.png" Key="pk-rank.png" />
+              <PlistImageFile Name="pk-tree.png" Key="pk-tree.png" />
+              <PlistImageFile Name="pk-why.png" Key="pk-why.png" />
               <PlistImageFile Name="progress-1-in.png" Key="progress-1-in.png" />
               <PlistImageFile Name="progress-1-out.png" Key="progress-1-out.png" />
               <PlistImageFile Name="rank-1-off.png" Key="rank-1-off.png" />
@@ -115,7 +121,11 @@
               <PlistImageFile Name="rank-down.png" Key="rank-down.png" />
               <PlistImageFile Name="rank-up.png" Key="rank-up.png" />
               <PlistImageFile Name="remind.png" Key="remind.png" />
+              <PlistImageFile Name="search-befor-666x424.png" Key="search-befor-666x424.png" />
+              <PlistImageFile Name="search-limit.png" Key="search-limit.png" />
+              <PlistImageFile Name="search-mid.png" Key="search-mid.png" />
               <PlistImageFile Name="star-pink.png" Key="star-pink.png" />
+              <PlistImageFile Name="star-red.png" Key="star-red.png" />
               <PlistImageFile Name="star-yellow.png" Key="star-yellow.png" />
               <PlistImageFile Name="tile-big.png" Key="tile-big.png" />
               <PlistImageFile Name="tile-little.png" Key="tile-little.png" />
@@ -139,16 +149,6 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
-              <PlistImageFile Name="pk-476x174.png" Key="pk-476x174.png" />
-              <PlistImageFile Name="pk-476x194.png" Key="pk-476x194.png" />
-              <PlistImageFile Name="pk-food.png" Key="pk-food.png" />
-              <PlistImageFile Name="pk-rank.png" Key="pk-rank.png" />
-              <PlistImageFile Name="pk-tree.png" Key="pk-tree.png" />
-              <PlistImageFile Name="pk-why.png" Key="pk-why.png" />
-              <PlistImageFile Name="search-befor-666x424.png" Key="search-befor-666x424.png" />
-              <PlistImageFile Name="search-limit.png" Key="search-limit.png" />
-              <PlistImageFile Name="search-mid.png" Key="search-mid.png" />
-              <PlistImageFile Name="star-red.png" Key="star-red.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
