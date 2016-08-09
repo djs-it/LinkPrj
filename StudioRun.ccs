@@ -77,6 +77,8 @@
               <PlistImageFile Name="dialog-8-1.png" Key="dialog-8-1.png" />
               <PlistImageFile Name="dialog-8-2.png" Key="dialog-8-2.png" />
               <PlistImageFile Name="dialog-8-3.png" Key="dialog-8-3.png" />
+              <PlistImageFile Name="dialog-fri-634x222.png" Key="dialog-fri-634x222.png" />
+              <PlistImageFile Name="dialog-fri-700x1032.png" Key="dialog-fri-700x1032.png" />
               <PlistImageFile Name="gaming-bm-friend.png" Key="gaming-bm-friend.png" />
               <PlistImageFile Name="gaming-bm-right.png" Key="gaming-bm-right.png" />
               <PlistImageFile Name="gaming-pause.png" Key="gaming-pause.png" />
@@ -149,8 +151,9 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
-              <PlistImageFile Name="dialog-fri-634x222.png" Key="dialog-fri-634x222.png" />
-              <PlistImageFile Name="dialog-fri-700x1032.png" Key="dialog-fri-700x1032.png" />
+              <PlistImageFile Name="btn-sign.png" Key="btn-sign.png" />
+              <PlistImageFile Name="room-out.png" Key="room-out.png" />
+              <PlistImageFile Name="room-sign-line.png" Key="room-sign-line.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
@@ -507,7 +510,9 @@
             <Project Name="main_room.csd" Type="Layer" />
             <Project Name="main_top.csd" Type="Node" />
           </Folder>
-          <Folder Name="room" />
+          <Folder Name="room">
+            <Project Name="bedroom.csd" Type="Node" />
+          </Folder>
         </Folder>
       </RootFolder>
     </Group>
