@@ -149,6 +149,8 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
+              <PlistImageFile Name="dialog-fri-634x222.png" Key="dialog-fri-634x222.png" />
+              <PlistImageFile Name="dialog-fri-700x1032.png" Key="dialog-fri-700x1032.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
@@ -174,6 +176,89 @@
               <PlistImageFile Name="room-hang.png" Key="room-hang.png" />
               <PlistImageFile Name="room-role.png" Key="room-role.png" />
               <PlistImageFile Name="room-windows.png" Key="room-windows.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="B-room1.png" PListFile="B-room1.plist" Name=".B-room1_PList.Dir">
+              <PlistImageFile Name="bathroom_01-01.png" Key="bathroom_01-01.png" />
+              <PlistImageFile Name="bathroom_01-02.png" Key="bathroom_01-02.png" />
+              <PlistImageFile Name="bathroom_02-01.png" Key="bathroom_02-01.png" />
+              <PlistImageFile Name="bathroom_02-02.png" Key="bathroom_02-02.png" />
+              <PlistImageFile Name="bathroom_03-01.png" Key="bathroom_03-01.png" />
+              <PlistImageFile Name="bathroom_03-02.png" Key="bathroom_03-02.png" />
+              <PlistImageFile Name="bathroom_04-01.png" Key="bathroom_04-01.png" />
+              <PlistImageFile Name="bathroom_04-02.png" Key="bathroom_04-02.png" />
+              <PlistImageFile Name="bathroom_05-01.png" Key="bathroom_05-01.png" />
+              <PlistImageFile Name="bathroom_05-02.png" Key="bathroom_05-02.png" />
+              <PlistImageFile Name="bathroom_06-01.png" Key="bathroom_06-01.png" />
+              <PlistImageFile Name="bathroom_06-02.png" Key="bathroom_06-02.png" />
+              <PlistImageFile Name="bathroom_07-01.png" Key="bathroom_07-01.png" />
+              <PlistImageFile Name="bathroom_07-02.png" Key="bathroom_07-02.png" />
+              <PlistImageFile Name="bathroom_08-01.png" Key="bathroom_08-01.png" />
+              <PlistImageFile Name="bathroom_08-02.png" Key="bathroom_08-02.png" />
+              <PlistImageFile Name="bathroom_09-01.png" Key="bathroom_09-01.png" />
+              <PlistImageFile Name="bathroom_09-02.png" Key="bathroom_09-02.png" />
+              <PlistImageFile Name="bathroom_10-01.png" Key="bathroom_10-01.png" />
+              <PlistImageFile Name="bathroom_10-02.png" Key="bathroom_10-02.png" />
+              <PlistImageFile Name="bathroom_11-01.png" Key="bathroom_11-01.png" />
+              <PlistImageFile Name="bathroom_11-02.png" Key="bathroom_11-02.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="B-room2.png" PListFile="B-room2.plist" Name=".B-room2_PList.Dir">
+              <PlistImageFile Name="bedroom_01-01.png" Key="bedroom_01-01.png" />
+              <PlistImageFile Name="bedroom_01-02.png" Key="bedroom_01-02.png" />
+              <PlistImageFile Name="bedroom_02-01.png" Key="bedroom_02-01.png" />
+              <PlistImageFile Name="bedroom_02-02.png" Key="bedroom_02-02.png" />
+              <PlistImageFile Name="bedroom_03-01.png" Key="bedroom_03-01.png" />
+              <PlistImageFile Name="bedroom_03-02.png" Key="bedroom_03-02.png" />
+              <PlistImageFile Name="bedroom_04-01.png" Key="bedroom_04-01.png" />
+              <PlistImageFile Name="bedroom_04-02.png" Key="bedroom_04-02.png" />
+              <PlistImageFile Name="bedroom_05-01.png" Key="bedroom_05-01.png" />
+              <PlistImageFile Name="bedroom_05-02.png" Key="bedroom_05-02.png" />
+              <PlistImageFile Name="things-01.png" Key="things-01.png" />
+              <PlistImageFile Name="things-02.png" Key="things-02.png" />
+              <PlistImageFile Name="things-03.png" Key="things-03.png" />
+              <PlistImageFile Name="things-04.png" Key="things-04.png" />
+              <PlistImageFile Name="things-05.png" Key="things-05.png" />
+              <PlistImageFile Name="things-06.png" Key="things-06.png" />
+              <PlistImageFile Name="things-07.png" Key="things-07.png" />
+              <PlistImageFile Name="things-08.png" Key="things-08.png" />
+              <PlistImageFile Name="things-09.png" Key="things-09.png" />
+              <PlistImageFile Name="things-10.png" Key="things-10.png" />
+              <PlistImageFile Name="things-11.png" Key="things-11.png" />
+              <PlistImageFile Name="things-12.png" Key="things-12.png" />
+            </PlistImageFolder>
+            <PlistImageFolder Image="B-room3.png" PListFile="B-room3.plist" Name=".B-room3_PList.Dir">
+              <PlistImageFile Name="food-01.png" Key="food-01.png" />
+              <PlistImageFile Name="food-02.png" Key="food-02.png" />
+              <PlistImageFile Name="food-03.png" Key="food-03.png" />
+              <PlistImageFile Name="food-04.png" Key="food-04.png" />
+              <PlistImageFile Name="food-05.png" Key="food-05.png" />
+              <PlistImageFile Name="food-06.png" Key="food-06.png" />
+              <PlistImageFile Name="food-07.png" Key="food-07.png" />
+              <PlistImageFile Name="food-08.png" Key="food-08.png" />
+              <PlistImageFile Name="food-09.png" Key="food-09.png" />
+              <PlistImageFile Name="food-10.png" Key="food-10.png" />
+              <PlistImageFile Name="food-11.png" Key="food-11.png" />
+              <PlistImageFile Name="food-12.png" Key="food-12.png" />
+              <PlistImageFile Name="food-13.png" Key="food-13.png" />
+              <PlistImageFile Name="food-14.png" Key="food-14.png" />
+              <PlistImageFile Name="kitchen_01-01.png" Key="kitchen_01-01.png" />
+              <PlistImageFile Name="kitchen_01-02-01.png" Key="kitchen_01-02-01.png" />
+              <PlistImageFile Name="kitchen_01-02-02.png" Key="kitchen_01-02-02.png" />
+              <PlistImageFile Name="kitchen_01-02-03.png" Key="kitchen_01-02-03.png" />
+              <PlistImageFile Name="kitchen_02-01.png" Key="kitchen_02-01.png" />
+              <PlistImageFile Name="kitchen_02-02.png" Key="kitchen_02-02.png" />
+              <PlistImageFile Name="kitchen_03-01.png" Key="kitchen_03-01.png" />
+              <PlistImageFile Name="kitchen_03-02.png" Key="kitchen_03-02.png" />
+              <PlistImageFile Name="kitchen_04-01.png" Key="kitchen_04-01.png" />
+              <PlistImageFile Name="kitchen_04-02.png" Key="kitchen_04-02.png" />
+              <PlistImageFile Name="kitchen_05-01.png" Key="kitchen_05-01.png" />
+              <PlistImageFile Name="kitchen_05-02.png" Key="kitchen_05-02.png" />
+              <PlistImageFile Name="kitchen_06-01.png" Key="kitchen_06-01.png" />
+              <PlistImageFile Name="kitchen_06-02.png" Key="kitchen_06-02.png" />
+              <PlistImageFile Name="kitchen_07-01.png" Key="kitchen_07-01.png" />
+              <PlistImageFile Name="kitchen_07-02.png" Key="kitchen_07-02.png" />
+              <PlistImageFile Name="room-line-01.png" Key="room-line-01.png" />
+              <PlistImageFile Name="room-line-02.png" Key="room-line-02.png" />
+              <PlistImageFile Name="room-line-03.png" Key="room-line-03.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-single.png" PListFile="B-single.plist" Name=".B-single_PList.Dir">
               <PlistImageFile Name="bridge-2-1.png" Key="bridge-2-1.png" />
@@ -412,14 +497,17 @@
           <Folder Name="mainbuy">
             <Project Name="buy.csd" Type="Node" />
           </Folder>
-          <Folder Name="mainfriend" />
+          <Folder Name="mainfriend">
+            <Project Name="friend.csd" Type="Node" />
+            <Project Name="friend_cell.csd" Type="Node" />
+          </Folder>
           <Folder Name="mainroom">
             <Project Name="main_bm_btn.csd" Type="Node" />
             <Project Name="main_bottom.csd" Type="Node" />
             <Project Name="main_room.csd" Type="Layer" />
             <Project Name="main_top.csd" Type="Node" />
           </Folder>
-          <Folder Name="shop" />
+          <Folder Name="room" />
         </Folder>
       </RootFolder>
     </Group>

@@ -9,6 +9,36 @@
           <AbstractNodeData Name="Panel_1" ActionTag="1158137681" Tag="80" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-540.0000" RightMargin="-540.0000" BottomMargin="-150.0000" TouchEnable="True" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="1080.0000" Y="150.0000" />
             <Children>
+              <AbstractNodeData Name="btnActivity" ActionTag="-14921968" CallBackType="Click" CallBackName="btnActivity" UserData="sb" Tag="96" IconVisible="False" LeftMargin="329.6205" RightMargin="600.3795" TopMargin="247.2184" BottomMargin="-253.2184" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="120" Scale9Height="134" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="150.0000" Y="156.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="404.6205" Y="-175.2184" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3746" Y="-1.1681" />
+                <PreSize X="0.1389" Y="1.0400" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                <PressedFileData Type="PlistSubImage" Path="main-top-activity.png" Plist="Resource/atlas/B-common.plist" />
+                <NormalFileData Type="PlistSubImage" Path="main-top-activity.png" Plist="Resource/atlas/B-common.plist" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="btnFriend" ActionTag="-1424475514" CallBackType="Click" CallBackName="btnFriend" UserData="sb" Tag="95" IconVisible="False" LeftMargin="124.7092" RightMargin="805.2908" TopMargin="231.2110" BottomMargin="-266.2110" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="120" Scale9Height="163" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="150.0000" Y="185.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="199.7092" Y="-173.7110" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.1849" Y="-1.1581" />
+                <PreSize X="0.1389" Y="1.2333" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                <PressedFileData Type="PlistSubImage" Path="main-top-friend.png" Plist="Resource/atlas/B-common.plist" />
+                <NormalFileData Type="PlistSubImage" Path="main-top-friend.png" Plist="Resource/atlas/B-common.plist" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
+              </AbstractNodeData>
               <AbstractNodeData Name="Sprite_1" ActionTag="-1841623343" Tag="81" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="1.4040" RightMargin="-1.4041" TopMargin="135.1400" BottomMargin="-86.1400" ctype="SpriteObjectData">
                 <Size X="1080.0000" Y="101.0000" />
                 <Children>
@@ -34,6 +64,21 @@
                 <PreSize X="1.0000" Y="0.6733" />
                 <FileData Type="PlistSubImage" Path="main-top-head.png" Plist="Resource/atlas/B-common.plist" />
                 <BlendFunc Src="1" Dst="771" />
+              </AbstractNodeData>
+              <AbstractNodeData Name="Button_1" ActionTag="1046041141" CallBackType="Click" CallBackName="btnEmail" UserData="sb" Tag="73" IconVisible="False" LeftMargin="342.0000" RightMargin="600.0000" TopMargin="57.4578" BottomMargin="-57.4578" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="108" Scale9Height="128" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                <Size X="138.0000" Y="150.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="411.0000" Y="17.5422" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                <CColor A="255" R="255" G="255" B="255" />
+                <PrePosition X="0.3806" Y="0.1169" />
+                <PreSize X="0.1278" Y="1.0000" />
+                <TextColor A="255" R="65" G="65" B="70" />
+                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
+                <PressedFileData Type="PlistSubImage" Path="main-top-email.png" Plist="Resource/atlas/B-common.plist" />
+                <NormalFileData Type="PlistSubImage" Path="main-top-email.png" Plist="Resource/atlas/B-common.plist" />
+                <OutlineColor A="255" R="255" G="0" B="0" />
+                <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
               <AbstractNodeData Name="Sprite_5" ActionTag="50049006" Tag="93" IconVisible="False" LeftMargin="245.0760" RightMargin="748.9240" TopMargin="142.6009" BottomMargin="-85.6009" ctype="SpriteObjectData">
                 <Size X="86.0000" Y="93.0000" />
@@ -115,51 +160,6 @@
                 <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
                 <PressedFileData Type="PlistSubImage" Path="main-top-gem.png" Plist="Resource/atlas/B-common.plist" />
                 <NormalFileData Type="PlistSubImage" Path="main-top-gem.png" Plist="Resource/atlas/B-common.plist" />
-                <OutlineColor A="255" R="255" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="btnActivity" ActionTag="-14921968" CallBackType="Click" CallBackName="btnActivity" UserData="sb" Tag="96" IconVisible="False" LeftMargin="136.6205" RightMargin="793.3795" TopMargin="264.2184" BottomMargin="-270.2184" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="120" Scale9Height="134" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="150.0000" Y="156.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="211.6205" Y="-192.2184" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.1959" Y="-1.2815" />
-                <PreSize X="0.1389" Y="1.0400" />
-                <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="PlistSubImage" Path="main-top-activity.png" Plist="Resource/atlas/B-common.plist" />
-                <NormalFileData Type="PlistSubImage" Path="main-top-activity.png" Plist="Resource/atlas/B-common.plist" />
-                <OutlineColor A="255" R="255" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="btnFriend" ActionTag="-1424475514" CallBackType="Click" CallBackName="btnFriend" UserData="sb" Tag="95" IconVisible="False" LeftMargin="333.7092" RightMargin="596.2908" TopMargin="191.2110" BottomMargin="-226.2110" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="120" Scale9Height="163" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="150.0000" Y="185.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="408.7092" Y="-133.7110" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.3784" Y="-0.8914" />
-                <PreSize X="0.1389" Y="1.2333" />
-                <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="PlistSubImage" Path="main-top-friend.png" Plist="Resource/atlas/B-common.plist" />
-                <NormalFileData Type="PlistSubImage" Path="main-top-friend.png" Plist="Resource/atlas/B-common.plist" />
-                <OutlineColor A="255" R="255" G="0" B="0" />
-                <ShadowColor A="255" R="110" G="110" B="110" />
-              </AbstractNodeData>
-              <AbstractNodeData Name="Button_1" ActionTag="1046041141" CallBackType="Click" CallBackName="btnEmail" UserData="sb" Tag="73" IconVisible="False" LeftMargin="342.0000" RightMargin="600.0000" TopMargin="57.4578" BottomMargin="-57.4578" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="108" Scale9Height="128" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
-                <Size X="138.0000" Y="150.0000" />
-                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                <Position X="411.0000" Y="17.5422" />
-                <Scale ScaleX="1.0000" ScaleY="1.0000" />
-                <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.3806" Y="0.1169" />
-                <PreSize X="0.1278" Y="1.0000" />
-                <TextColor A="255" R="65" G="65" B="70" />
-                <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
-                <PressedFileData Type="PlistSubImage" Path="main-top-email.png" Plist="Resource/atlas/B-common.plist" />
-                <NormalFileData Type="PlistSubImage" Path="main-top-email.png" Plist="Resource/atlas/B-common.plist" />
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
