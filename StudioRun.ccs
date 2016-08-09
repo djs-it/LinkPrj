@@ -47,6 +47,7 @@
               <PlistImageFile Name="btn-close.png" Key="btn-close.png" />
               <PlistImageFile Name="btn-gem.png" Key="btn-gem.png" />
               <PlistImageFile Name="btn-gold.png" Key="btn-gold.png" />
+              <PlistImageFile Name="btn-sign.png" Key="btn-sign.png" />
               <PlistImageFile Name="btn-turn.png" Key="btn-turn.png" />
               <PlistImageFile Name="buy-1-off.png" Key="buy-1-off.png" />
               <PlistImageFile Name="buy-1-on.png" Key="buy-1-on.png" />
@@ -123,6 +124,8 @@
               <PlistImageFile Name="rank-down.png" Key="rank-down.png" />
               <PlistImageFile Name="rank-up.png" Key="rank-up.png" />
               <PlistImageFile Name="remind.png" Key="remind.png" />
+              <PlistImageFile Name="room-out.png" Key="room-out.png" />
+              <PlistImageFile Name="room-sign-line.png" Key="room-sign-line.png" />
               <PlistImageFile Name="search-befor-666x424.png" Key="search-befor-666x424.png" />
               <PlistImageFile Name="search-limit.png" Key="search-limit.png" />
               <PlistImageFile Name="search-mid.png" Key="search-mid.png" />
@@ -151,9 +154,6 @@
               <PlistImageFile Name="word-board-40.png" Key="word-board-40.png" />
               <PlistImageFile Name="word-board-50.png" Key="word-board-50.png" />
               <PlistImageFile Name="word-board-75.png" Key="word-board-75.png" />
-              <PlistImageFile Name="btn-sign.png" Key="btn-sign.png" />
-              <PlistImageFile Name="room-out.png" Key="room-out.png" />
-              <PlistImageFile Name="room-sign-line.png" Key="room-sign-line.png" />
             </PlistImageFolder>
             <PlistImageFolder Image="B-other.png" PListFile="B-other.plist" Name=".B-other_PList.Dir">
               <PlistImageFile Name="pool-2-1.png" Key="pool-2-1.png" />
@@ -512,6 +512,7 @@
           </Folder>
           <Folder Name="room">
             <Project Name="bedroom.csd" Type="Node" />
+            <Project Name="room_bm.csd" Type="Node" />
           </Folder>
         </Folder>
       </RootFolder>

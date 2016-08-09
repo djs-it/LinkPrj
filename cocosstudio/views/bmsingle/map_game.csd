@@ -17,7 +17,7 @@
             <FileData Type="Normal" Path="Resource/other/KTLLK-.png" Plist="" />
             <BlendFunc Src="770" Dst="771" />
           </AbstractNodeData>
-          <AbstractNodeData Name="Panel_49" ActionTag="-1927473352" Tag="911" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-397.0000" RightMargin="-397.0000" BottomMargin="-500.0000" TouchEnable="True" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_49" ActionTag="-1927473352" Tag="911" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-397.0000" RightMargin="-397.0000" BottomMargin="-500.0000" TouchEnable="True" ClipAble="False" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="794.0000" Y="500.0000" />
             <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
             <Position />
