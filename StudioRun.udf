@@ -31,14 +31,9 @@
     <Item Key="TabsParamsKey">
       <Value ctype="TabsInfo">
         <OpenedDocuments>
-          <FilePathData Path="views/gaming/gaming_level_over.csd" />
-          <FilePathData Path="views/gaming/gaming_pause.csd" />
-          <FilePathData Path="views/gaming/gaming_top.csd" />
-          <FilePathData Path="views/gaming/wall_horizontal.csd" />
-          <FilePathData Path="views/gaming/wall_vertical.csd" />
-          <FilePathData Path="views/mainactivity/activity.csd" />
+          <FilePathData Path="views/mainbuy/buy.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="views/mainactivity/activity.csd" />
+        <ActiveDocument Path="views/mainbuy/buy.csd" />
       </Value>
     </Item>
   </Properties>
