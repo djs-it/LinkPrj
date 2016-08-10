@@ -493,13 +493,13 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_1" ActionTag="131402040" Tag="197" IconVisible="False" LeftMargin="786.0000" RightMargin="146.0000" TopMargin="1225.0000" BottomMargin="168.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_1" ActionTag="131402040" Tag="197" IconVisible="False" LeftMargin="786.0004" RightMargin="145.9996" TopMargin="1225.7277" BottomMargin="167.2724" ctype="SpriteObjectData">
                     <Size X="28.0000" Y="47.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="1.0000" />
-                    <Position X="800.0000" Y="215.0000" />
+                    <Position X="800.0004" Y="214.2724" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.8333" Y="0.1493" />
+                    <PrePosition X="0.8333" Y="0.1488" />
                     <PreSize X="0.0292" Y="0.0326" />
                     <FileData Type="PlistSubImage" Path="main-dialog-line.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
@@ -558,7 +558,7 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="btnFloorOne" ActionTag="-149920796" CallBackType="Click" CallBackName="btnFloorOne" UserData="sb" Tag="361" IconVisible="False" LeftMargin="681.1570" RightMargin="98.8430" TopMargin="1072.5115" BottomMargin="265.4885" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="150" Scale9Height="80" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="btnFloorOne" ActionTag="-149920796" CallBackType="Click" CallBackName="btnFloorOne" UserData="sb" Tag="361" IconVisible="False" LeftMargin="681.1570" RightMargin="98.8430" TopMargin="1073.0000" BottomMargin="265.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="150" Scale9Height="80" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="180.0000" Y="102.0000" />
                     <Children>
                       <AbstractNodeData Name="Text_8" ActionTag="-1914358356" CallBackName="btnFloorTwo" Tag="362" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="29.0000" RightMargin="29.0000" TopMargin="21.9000" BottomMargin="32.1000" FontSize="40" LabelText="去二层" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
@@ -575,10 +575,10 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="771.1570" Y="316.4885" />
+                    <Position X="771.1570" Y="316.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.8033" Y="0.2198" />
+                    <PrePosition X="0.8033" Y="0.2194" />
                     <PreSize X="0.1875" Y="0.0708" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
@@ -587,10 +587,10 @@
                     <OutlineColor A="255" R="255" G="0" B="0" />
                     <ShadowColor A="255" R="110" G="110" B="110" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="btnChangeDo" ActionTag="269589912" CallBackType="Click" CallBackName="btnEdit" UserData="sb" Tag="148" IconVisible="False" LeftMargin="312.6751" RightMargin="467.3249" TopMargin="1070.8660" BottomMargin="267.1341" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="150" Scale9Height="80" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
+                  <AbstractNodeData Name="btnChangeDo" ActionTag="269589912" CallBackType="Click" CallBackName="btnEdit" UserData="sb" Tag="148" IconVisible="False" LeftMargin="103.1465" RightMargin="676.8535" TopMargin="1073.0000" BottomMargin="265.0000" TouchEnable="True" FontSize="14" Scale9Enable="True" LeftEage="15" RightEage="15" TopEage="11" BottomEage="11" Scale9OriginX="15" Scale9OriginY="11" Scale9Width="150" Scale9Height="80" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="ButtonObjectData">
                     <Size X="180.0000" Y="102.0000" />
                     <Children>
-                      <AbstractNodeData Name="Text_8" ActionTag="-503552422" CallBackName="btnFloorTwo" Tag="149" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.0000" RightMargin="49.0000" TopMargin="21.9000" BottomMargin="32.1000" FontSize="40" LabelText="编辑" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="Text_8" ActionTag="-503552422" CallBackName="btnFloorTwo" Tag="149" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="49.0000" RightMargin="49.0000" TopMargin="21.9000" BottomMargin="32.1000" FontSize="40" LabelText="装修" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="82.0000" Y="48.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                         <Position X="90.0000" Y="56.1000" />
@@ -604,10 +604,10 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="402.6751" Y="318.1341" />
+                    <Position X="193.1465" Y="316.0000" />
                     <Scale ScaleX="1.0000" ScaleY="1.0000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.4195" Y="0.2209" />
+                    <PrePosition X="0.2012" Y="0.2194" />
                     <PreSize X="0.1875" Y="0.0708" />
                     <TextColor A="255" R="65" G="65" B="70" />
                     <DisabledFileData Type="Default" Path="Default/Button_Disable.png" Plist="" />
