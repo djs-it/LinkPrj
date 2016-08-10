@@ -111,7 +111,7 @@
             <key>box-pink-1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1203,1816},{130,121}}</string>
+                <string>{{1327,1772},{130,121}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -137,7 +137,7 @@
             <key>box-yellow-1.png</key>
             <dict>
                 <key>frame</key>
-                <string>{{1080,1904},{130,121}}</string>
+                <string>{{1204,1816},{130,121}}</string>
                 <key>offset</key>
                 <string>{0,0}</string>
                 <key>rotated</key>
@@ -497,6 +497,19 @@
                 <string>{{0,0},{104,112}}</string>
                 <key>sourceSize</key>
                 <string>{104,112}</string>
+            </dict>
+            <key>btn-close-02.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{1080,1904},{122,130}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{122,130}}</string>
+                <key>sourceSize</key>
+                <string>{122,130}</string>
             </dict>
             <key>btn-close.png</key>
             <dict>
@@ -1938,7 +1951,7 @@
             <key>size</key>
             <string>{2048,2048}</string>
             <key>smartupdate</key>
-            <string>$TexturePacker:SmartUpdate:0dbb3facd95ddff9539f0e5e92e8e37d:1/1$</string>
+            <string>$TexturePacker:SmartUpdate:0c39f896ec153514e5ef829db22602b8:1/1$</string>
             <key>textureFileName</key>
             <string>B-common.png</string>
         </dict>

@@ -32,8 +32,9 @@
       <Value ctype="TabsInfo">
         <OpenedDocuments>
           <FilePathData Path="views/mainbuy/buy.csd" />
+          <FilePathData Path="views/mainactivity/activity.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="views/mainbuy/buy.csd" />
+        <ActiveDocument Path="views/mainactivity/activity.csd" />
       </Value>
     </Item>
   </Properties>
