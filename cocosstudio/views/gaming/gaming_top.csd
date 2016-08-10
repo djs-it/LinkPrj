@@ -9,16 +9,15 @@
           <AbstractNodeData Name="Panel_1" ActionTag="-1966918983" Tag="653" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-540.0000" RightMargin="-540.0000" BottomMargin="-182.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="1080.0000" Y="182.0000" />
             <Children>
-              <AbstractNodeData Name="Sprite_1" ActionTag="-748394887" Tag="654" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="536.0000" RightMargin="536.0000" TopMargin="-103.0000" ctype="SpriteObjectData">
-                <Size X="8.0000" Y="285.0000" />
-                <AnchorPoint ScaleX="0.5000" />
-                <Position X="540.0000" />
-                <Scale ScaleX="200.0000" ScaleY="1.0000" />
+              <AbstractNodeData Name="Image_1" ActionTag="1332894218" Tag="316" IconVisible="False" PositionPercentXEnabled="True" TopMargin="-102.9977" BottomMargin="-0.0023" Scale9Enable="True" LeftEage="3" RightEage="3" TopEage="68" BottomEage="83" Scale9OriginX="3" Scale9OriginY="68" Scale9Width="2" Scale9Height="134" ctype="ImageViewObjectData">
+                <Size X="1080.0000" Y="285.0000" />
+                <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
+                <Position X="540.0000" Y="142.4977" />
+                <Scale ScaleX="1.0000" ScaleY="1.0000" />
                 <CColor A="255" R="255" G="255" B="255" />
-                <PrePosition X="0.5000" />
-                <PreSize X="0.0074" Y="1.5659" />
+                <PrePosition X="0.5000" Y="0.7830" />
+                <PreSize X="1.0000" Y="1.5659" />
                 <FileData Type="PlistSubImage" Path="main-top-line.png" Plist="Resource/atlas/B-common.plist" />
-                <BlendFunc Src="1" Dst="771" />
               </AbstractNodeData>
               <AbstractNodeData Name="Sprite_2" ActionTag="719506254" Tag="655" IconVisible="False" LeftMargin="434.3846" RightMargin="431.6154" TopMargin="13.7317" BottomMargin="65.2683" ctype="SpriteObjectData">
                 <Size X="214.0000" Y="103.0000" />
@@ -48,7 +47,7 @@
               <AbstractNodeData Name="Panel_2" ActionTag="743332793" Tag="657" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="365.0000" RightMargin="365.0000" TopMargin="110.7606" BottomMargin="-28.7606" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="350.0000" Y="100.0000" />
                 <Children>
-                  <AbstractNodeData Name="Sprite_3_0" ActionTag="-2057739937" Tag="660" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-59.5000" RightMargin="290.5000" TopMargin="-8.0000" BottomMargin="-8.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_3_0" ActionTag="-2057739937" Tag="660" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-57.7144" RightMargin="288.7144" TopMargin="-20.5005" BottomMargin="4.5005" ctype="SpriteObjectData">
                     <Size X="119.0000" Y="116.0000" />
                     <Children>
                       <AbstractNodeData Name="star3" ActionTag="1115008644" Tag="661" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-0.5000" RightMargin="-0.5000" TopMargin="0.5000" BottomMargin="0.5000" ctype="SpriteObjectData">
@@ -64,15 +63,15 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position Y="50.0000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Position X="1.7856" Y="62.5005" />
+                    <Scale ScaleX="0.8000" ScaleY="0.8000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition Y="0.5000" />
+                    <PrePosition X="0.0051" Y="0.6250" />
                     <PreSize X="0.3400" Y="1.1600" />
                     <FileData Type="PlistSubImage" Path="star-pink.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_3" ActionTag="-261380374" Tag="658" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="115.5000" RightMargin="115.5000" TopMargin="-8.0000" BottomMargin="-8.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_3" ActionTag="-261380374" Tag="658" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="117.2855" RightMargin="113.7145" TopMargin="-20.5005" BottomMargin="4.5005" ctype="SpriteObjectData">
                     <Size X="119.0000" Y="116.0000" />
                     <Children>
                       <AbstractNodeData Name="star2" ActionTag="-225740146" Tag="659" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-0.5000" RightMargin="-0.5000" TopMargin="0.5000" BottomMargin="0.5000" ctype="SpriteObjectData">
@@ -88,15 +87,15 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="175.0000" Y="50.0000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Position X="176.7855" Y="62.5005" />
+                    <Scale ScaleX="0.8000" ScaleY="0.8000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="0.5000" Y="0.5000" />
+                    <PrePosition X="0.5051" Y="0.6250" />
                     <PreSize X="0.3400" Y="1.1600" />
                     <FileData Type="PlistSubImage" Path="star-pink.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Sprite_3_0_0" ActionTag="122313168" Tag="662" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="290.5000" RightMargin="-59.5000" TopMargin="-8.0000" BottomMargin="-8.0000" ctype="SpriteObjectData">
+                  <AbstractNodeData Name="Sprite_3_0_0" ActionTag="122313168" Tag="662" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="292.2858" RightMargin="-61.2858" TopMargin="-20.5005" BottomMargin="4.5005" ctype="SpriteObjectData">
                     <Size X="119.0000" Y="116.0000" />
                     <Children>
                       <AbstractNodeData Name="star1" ActionTag="1576501954" Tag="663" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-0.5000" RightMargin="-0.5000" TopMargin="0.5000" BottomMargin="0.5000" ctype="SpriteObjectData">
@@ -112,10 +111,10 @@
                       </AbstractNodeData>
                     </Children>
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                    <Position X="350.0000" Y="50.0000" />
-                    <Scale ScaleX="1.0000" ScaleY="1.0000" />
+                    <Position X="351.7858" Y="62.5005" />
+                    <Scale ScaleX="0.8000" ScaleY="0.8000" />
                     <CColor A="255" R="255" G="255" B="255" />
-                    <PrePosition X="1.0000" Y="0.5000" />
+                    <PrePosition X="1.0051" Y="0.6250" />
                     <PreSize X="0.3400" Y="1.1600" />
                     <FileData Type="PlistSubImage" Path="star-pink.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
@@ -147,7 +146,7 @@
                 <OutlineColor A="255" R="255" G="0" B="0" />
                 <ShadowColor A="255" R="110" G="110" B="110" />
               </AbstractNodeData>
-              <AbstractNodeData Name="bossbedcsd" ActionTag="164742532" Tag="57" IconVisible="False" LeftMargin="74.3036" RightMargin="805.6964" TopMargin="-12.6820" BottomMargin="-5.3180" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+              <AbstractNodeData Name="bossbedcsd" ActionTag="164742532" Tag="57" IconVisible="False" LeftMargin="74.3036" RightMargin="805.6964" TopMargin="-12.6820" BottomMargin="-5.3180" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                 <Size X="200.0000" Y="200.0000" />
                 <Children>
                   <AbstractNodeData Name="Sprite_4" ActionTag="-1552660642" Tag="58" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="31.0000" RightMargin="31.0000" TopMargin="121.0000" BottomMargin="1.0000" ctype="SpriteObjectData">
@@ -161,7 +160,7 @@
                     <FileData Type="PlistSubImage" Path="boss-bed.png" Plist="Resource/atlas/B-common.plist" />
                     <BlendFunc Src="1" Dst="771" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="bosscsd" ActionTag="-433216712" Tag="59" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="100.0000" RightMargin="100.0000" TopMargin="100.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+                  <AbstractNodeData Name="bosscsd" ActionTag="-433216712" Tag="59" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="100.0000" RightMargin="100.0000" TopMargin="100.0000" BottomMargin="100.0000" TouchEnable="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="0.0000" Y="0.0000" />
                     <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
                     <Position X="100.0000" Y="100.0000" />

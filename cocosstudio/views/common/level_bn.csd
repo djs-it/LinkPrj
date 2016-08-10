@@ -6,7 +6,7 @@
       <ObjectData Name="Node" Tag="57" ctype="GameNodeObjectData">
         <Size X="0.0000" Y="0.0000" />
         <Children>
-          <AbstractNodeData Name="Panel_1" ActionTag="-1473753678" Tag="58" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-100.0000" RightMargin="-100.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" ctype="PanelObjectData">
+          <AbstractNodeData Name="Panel_1" ActionTag="-1473753678" Tag="58" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="-100.0000" RightMargin="-100.0000" TopMargin="-100.0000" BottomMargin="-100.0000" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
             <Size X="200.0000" Y="200.0000" />
             <Children>
               <AbstractNodeData Name="Panel_1_0" ActionTag="-2025236781" Tag="258" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
@@ -45,13 +45,13 @@
                         <OutlineColor A="255" R="255" G="0" B="0" />
                         <ShadowColor A="255" R="110" G="110" B="110" />
                       </AbstractNodeData>
-                      <AbstractNodeData Name="levelNUM" ActionTag="651254319" Tag="261" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="92.0000" RightMargin="92.0000" TopMargin="72.8400" BottomMargin="79.1600" FontSize="40" LabelText="1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
+                      <AbstractNodeData Name="levelNUM" ActionTag="651254319" Tag="261" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" LeftMargin="92.0000" RightMargin="92.0000" TopMargin="76.0000" BottomMargin="76.0000" FontSize="40" LabelText="1" HorizontalAlignmentType="HT_Center" ShadowOffsetX="2.0000" ShadowOffsetY="-2.0000" ctype="TextObjectData">
                         <Size X="16.0000" Y="48.0000" />
                         <AnchorPoint ScaleX="0.5000" ScaleY="0.5000" />
-                        <Position X="100.0000" Y="103.1600" />
+                        <Position X="100.0000" Y="100.0000" />
                         <Scale ScaleX="1.0000" ScaleY="1.0000" />
                         <CColor A="255" R="103" G="65" B="78" />
-                        <PrePosition X="0.5000" Y="0.5158" />
+                        <PrePosition X="0.5000" Y="0.5000" />
                         <PreSize X="0.0800" Y="0.2400" />
                         <FontResource Type="Normal" Path="Resource/font/FZY4K.ttf" Plist="" />
                         <OutlineColor A="255" R="255" G="0" B="0" />
@@ -69,7 +69,7 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Panel_star" ActionTag="-90289289" Tag="262" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="Panel_star" Visible="False" ActionTag="-90289289" Tag="262" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <Children>
                       <AbstractNodeData Name="star_12" ActionTag="-280172908" Tag="263" RotationSkewX="-35.0000" RotationSkewY="-35.0000" IconVisible="False" LeftMargin="47.0000" RightMargin="121.0000" TopMargin="31.5000" BottomMargin="135.5000" ctype="SpriteObjectData">
@@ -117,7 +117,7 @@
                     <EndColor A="255" R="255" G="255" B="255" />
                     <ColorVector ScaleY="1.0000" />
                   </AbstractNodeData>
-                  <AbstractNodeData Name="Panel_star_0" ActionTag="-151441835" Tag="266" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
+                  <AbstractNodeData Name="Panel_star_0" Visible="False" ActionTag="-151441835" Tag="266" IconVisible="False" PositionPercentXEnabled="True" PositionPercentYEnabled="True" ClipAble="False" BackColorAlpha="0" ComboBoxIndex="1" ColorAngle="90.0000" Scale9Width="1" Scale9Height="1" ctype="PanelObjectData">
                     <Size X="200.0000" Y="200.0000" />
                     <Children>
                       <AbstractNodeData Name="star_1" ActionTag="1237135588" Tag="267" RotationSkewX="-35.0000" RotationSkewY="-35.0000" IconVisible="False" LeftMargin="47.0000" RightMargin="121.0000" TopMargin="31.5000" BottomMargin="135.5000" ctype="SpriteObjectData">
