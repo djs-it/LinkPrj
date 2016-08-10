@@ -36,8 +36,9 @@
           <FilePathData Path="views/gaming/gaming_top.csd" />
           <FilePathData Path="views/gaming/wall_horizontal.csd" />
           <FilePathData Path="views/gaming/wall_vertical.csd" />
+          <FilePathData Path="views/mainactivity/activity.csd" />
         </OpenedDocuments>
-        <ActiveDocument Path="views/gaming/wall_vertical.csd" />
+        <ActiveDocument Path="views/mainactivity/activity.csd" />
       </Value>
     </Item>
   </Properties>
